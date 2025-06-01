@@ -1,0 +1,8 @@
+pandas
+# twarc
+networkx
+transformers
+torch
+# tweepy
+google-api-python-client
+matplotlib

@@ -1,0 +1,2975 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d7" for="node" attr.name="is_main_comment" attr.type="boolean"/>
+<key id="d6" for="node" attr.name="color" attr.type="string"/>
+<key id="d5" for="node" attr.name="toxicity_label" attr.type="string"/>
+<key id="d4" for="node" attr.name="toxicity_score" attr.type="double"/>
+<key id="d3" for="node" attr.name="is_reply" attr.type="boolean"/>
+<key id="d2" for="node" attr.name="like_count" attr.type="long"/>
+<key id="d1" for="node" attr.name="author" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="UgxGLiRKBOqshURk7x94AaABAg">
+  <data key="d0">Strategically placing her guitar in the background</data>
+  <data key="d1">@RomanyGypsy92</data>
+  <data key="d2">337</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0009690948645584285</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgxGLiRKBOqshURk7x94AaABAg.AIRaJ-1wROPAITnF4B3bSU">
+  <data key="d0">genius, born to be an actress</data>
+  <data key="d1">@Дневник_полиглота</data>
+  <data key="d2">5</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0034649462904781103</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgxGLiRKBOqshURk7x94AaABAg.AIRaJ-1wROPAIU99LJbFYj">
+  <data key="d0">She got indoctrinated she goes by they/them 🤣🤣🤣</data>
+  <data key="d1">@lamarwayland6494</data>
+  <data key="d2">3</data>
+  <data key="d3">True</data>
+  <data key="d4">0.002238581422716379</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgxGLiRKBOqshURk7x94AaABAg.AIRaJ-1wROPAIU9WuR8nVo">
+  <data key="d0">​@@lamarwayland6494actually they recently said all</data>
+  <data key="d1">@RomanyGypsy92</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.000766419165302068</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgxGLiRKBOqshURk7x94AaABAg.AIRaJ-1wROPAIUF8h7PkUV">
+  <data key="d0">So is it true to the game or not? She tries to arg</data>
+  <data key="d1">@HarmlessComment</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0006653379532508552</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgxGLiRKBOqshURk7x94AaABAg.AIRaJ-1wROPAIV8fkTSWrk">
+  <data key="d0">@@HarmlessComment season 1 was more true to the ga</data>
+  <data key="d1">@nan4800_n</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0007027012761682272</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgySFt0xzA7ySa0FUAJ4AaABAg">
+  <data key="d0">Wish people understood what Bella said about this </data>
+  <data key="d1">@tanjalovesuuu</data>
+  <data key="d2">243</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0006912719691172242</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgySFt0xzA7ySa0FUAJ4AaABAg.AISVOik_5isAITAmOiR-0x">
+  <data key="d0">They all sabotaged the whole thing hopefully the g</data>
+  <data key="d1">@hsd287</data>
+  <data key="d2">14</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0010439387988299131</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgySFt0xzA7ySa0FUAJ4AaABAg.AISVOik_5isAIUMdg8UU4T">
+  <data key="d0">exactly! There's no need for a replica when the ga</data>
+  <data key="d1">@amyitis</data>
+  <data key="d2">11</data>
+  <data key="d3">True</data>
+  <data key="d4">0.013249838724732399</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgySFt0xzA7ySa0FUAJ4AaABAg.AISVOik_5isAIUWMykWwOM">
+  <data key="d0">Adaption ok so call ur show Lost of us and charact</data>
+  <data key="d1">@loshmyle</data>
+  <data key="d2">15</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0696772038936615</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgySFt0xzA7ySa0FUAJ4AaABAg.AISVOik_5isAIV6_ZaOi1F">
+  <data key="d0">have u ever ever played the actual game?</data>
+  <data key="d1">@aaeena_934</data>
+  <data key="d2">7</data>
+  <data key="d3">True</data>
+  <data key="d4">0.000997828901745379</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgySFt0xzA7ySa0FUAJ4AaABAg.AISVOik_5isAIVPAenfXU-">
+  <data key="d0">@@loshmylehow tf is this show woke in any way ? Lm</data>
+  <data key="d1">@ChovyTheWolf</data>
+  <data key="d2">3</data>
+  <data key="d3">True</data>
+  <data key="d4">0.002995756920427084</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugxu-mvKIs-0OnYBq5Z4AaABAg">
+  <data key="d0">The amount of paid bots in this comment section is</data>
+  <data key="d1">@rolandravina1543</data>
+  <data key="d2">10</data>
+  <data key="d3">False</data>
+  <data key="d4">0.008255443535745144</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugxu-mvKIs-0OnYBq5Z4AaABAg.AIdM2pxzh2OAIhe84Xm5fe">
+  <data key="d0">its ridiculous, everyone know what they've seen</data>
+  <data key="d1">@tallchief22</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.1339326798915863</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwgGJuwRNQ3uxFgfuR4AaABAg">
+  <data key="d0">Great interview! I love the way Bella speaks, so i</data>
+  <data key="d1">@GrayHung</data>
+  <data key="d2">209</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0008920662803575397</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgwgGJuwRNQ3uxFgfuR4AaABAg.AIRXOBrikvJAITYyeZCrBB">
+  <data key="d0">They're? Bella and who else?</data>
+  <data key="d1">@Lucky28PT</data>
+  <data key="d2">19</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0017040845705196261</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwgGJuwRNQ3uxFgfuR4AaABAg.AIRXOBrikvJAIU5gI5dN02">
+  <data key="d0">@@Lucky28PT Bella uses they/them pronouns. Hope th</data>
+  <data key="d1">@copperbean15</data>
+  <data key="d2">10</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0008931597112677991</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwgGJuwRNQ3uxFgfuR4AaABAg.AIRXOBrikvJAIU5zEDd0uC">
+  <data key="d0">@@copperbean15 oh, i know, i'm just making fun of </data>
+  <data key="d1">@Lucky28PT</data>
+  <data key="d2">13</data>
+  <data key="d3">True</data>
+  <data key="d4">0.001452180091291666</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwgGJuwRNQ3uxFgfuR4AaABAg.AIRXOBrikvJAIUAbttPPSr">
+  <data key="d0">​@@Lucky28PT how lame</data>
+  <data key="d1">@1Xpandi</data>
+  <data key="d2">8</data>
+  <data key="d3">True</data>
+  <data key="d4">0.26215413212776184</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwgGJuwRNQ3uxFgfuR4AaABAg.AIRXOBrikvJAIUAzf4EOom">
+  <data key="d0">@@1Xpandi it's a joke, deal with it. have some fun</data>
+  <data key="d1">@Lucky28PT</data>
+  <data key="d2">8</data>
+  <data key="d3">True</data>
+  <data key="d4">0.009230413474142551</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugw9Gs0wb-t7edVtP4l4AaABAg">
+  <data key="d0">telling her to not research the source material wa</data>
+  <data key="d1">@turtl3s0up</data>
+  <data key="d2">78</data>
+  <data key="d3">False</data>
+  <data key="d4">0.4942965507507324</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#ffff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugw9Gs0wb-t7edVtP4l4AaABAg.AIRkBL5nbYhAIUUg0r3cU6">
+  <data key="d0">Plus she looks 12 so trying to sell her as a badas</data>
+  <data key="d1">@rageintothelight</data>
+  <data key="d2">18</data>
+  <data key="d3">True</data>
+  <data key="d4">0.4234718084335327</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#ffff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugw9Gs0wb-t7edVtP4l4AaABAg.AIRkBL5nbYhAIVA-1kPVyY">
+  <data key="d0">Druckman’s ego gets in the way of what could be ge</data>
+  <data key="d1">@IAmGeorgeLucas</data>
+  <data key="d2">6</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0021756181959062815</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugw9Gs0wb-t7edVtP4l4AaABAg.AIRkBL5nbYhAIVK9trnLor">
+  <data key="d0">i see you missed the part where they said "They we</data>
+  <data key="d1">@mercurywitchy</data>
+  <data key="d2">7</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0005641765310429037</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugw9Gs0wb-t7edVtP4l4AaABAg.AIRkBL5nbYhAI_P87pSrht">
+  <data key="d0">​@@mercurywitchyIt doesn't, but continue to be a z</data>
+  <data key="d1">@idontplaygames3k296</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.22618567943572998</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugw9Gs0wb-t7edVtP4l4AaABAg.AIRkBL5nbYhAIeGHcxUGE0">
+  <data key="d0">90-95%??? She has like two emotions and she barely</data>
+  <data key="d1">@tars3249</data>
+  <data key="d2">3</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0013200665125623345</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgyFl9zCSUyMUzQSGBd4AaABAg">
+  <data key="d0">Bella is such a vibe, idk what many of you complai</data>
+  <data key="d1">@juliaberry732</data>
+  <data key="d2">120</data>
+  <data key="d3">False</data>
+  <data key="d4">0.4943085014820099</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#ffff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgyFl9zCSUyMUzQSGBd4AaABAg.AIRRFwxcGR9AIRXEr2c0Y2">
+  <data key="d0">Cringeeeeee</data>
+  <data key="d1">@yeezylegit4883</data>
+  <data key="d2">23</data>
+  <data key="d3">True</data>
+  <data key="d4">0.2933644652366638</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgyFl9zCSUyMUzQSGBd4AaABAg.AIRRFwxcGR9AIRXYfcKdzS">
+  <data key="d0">@@yeezylegit4883psht, they making bank either way </data>
+  <data key="d1">@juliaberry732</data>
+  <data key="d2">14</data>
+  <data key="d3">True</data>
+  <data key="d4">0.011212632060050964</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgyFl9zCSUyMUzQSGBd4AaABAg.AIRRFwxcGR9AIRZ7VHqKl4">
+  <data key="d0">@@juliaberry732 they are not making bank lmao. Mos</data>
+  <data key="d1">@yeezylegit4883</data>
+  <data key="d2">13</data>
+  <data key="d3">True</data>
+  <data key="d4">0.04753705486655235</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgyFl9zCSUyMUzQSGBd4AaABAg.AIRRFwxcGR9AIS6QW0XcnF">
+  <data key="d0">@@yeezylegit4883 sounds like you're obsessed w bel</data>
+  <data key="d1">@starsalignedits</data>
+  <data key="d2">10</data>
+  <data key="d3">True</data>
+  <data key="d4">0.24227117002010345</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgyFl9zCSUyMUzQSGBd4AaABAg.AIRRFwxcGR9AISbHAs021g">
+  <data key="d0">​@starsalignedits how does commenting make one obs</data>
+  <data key="d1">@MsSuckmynutz</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.06147946044802666</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugwf-mIEc8_RvQcJLwZ4AaABAg">
+  <data key="d0">Yall hate Bella so much, yet Yall watch every inte</data>
+  <data key="d1">@Mhhmaddie</data>
+  <data key="d2">115</data>
+  <data key="d3">False</data>
+  <data key="d4">0.6044957637786865</data>
+  <data key="d5">tóxico</data>
+  <data key="d6">#ff4d4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugwf-mIEc8_RvQcJLwZ4AaABAg.AIRSsUHJC4QAIRXB_sLECe">
+  <data key="d0">What do you mean they? That’s a girl. Clearly.</data>
+  <data key="d1">@yeezylegit4883</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.00418879883363843</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugwf-mIEc8_RvQcJLwZ4AaABAg.AIRSsUHJC4QAIRXP6CPSXr">
+  <data key="d0">Who is they? There is only one Bella Ramsey and sh</data>
+  <data key="d1">@bigotsandwiches8456</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.016936248168349266</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugwf-mIEc8_RvQcJLwZ4AaABAg.AIRSsUHJC4QAIRXeKlHBWt">
+  <data key="d0">Who is they? There is only one  Bella Ramsey.</data>
+  <data key="d1">@bigotsandwiches8456</data>
+  <data key="d2">14</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0008042104891501367</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugwf-mIEc8_RvQcJLwZ4AaABAg.AIRSsUHJC4QAIRYe4iC6rO">
+  <data key="d0">exactlyyyy!! like plss y’all are so obsessed it’s </data>
+  <data key="d1">@ninadoell</data>
+  <data key="d2">5</data>
+  <data key="d3">True</data>
+  <data key="d4">0.753035306930542</data>
+  <data key="d5">tóxico</data>
+  <data key="d6">#ff4d4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugwf-mIEc8_RvQcJLwZ4AaABAg.AIRSsUHJC4QAIRZ5JNxCub">
+  <data key="d0">@@ninadoell we hate that they ruined a game everyo</data>
+  <data key="d1">@yeezylegit4883</data>
+  <data key="d2">15</data>
+  <data key="d3">True</data>
+  <data key="d4">0.2317362129688263</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugx_wAPPrhIjyUdSRed4AaABAg">
+  <data key="d0">They are extremely adorable and very talented. Rea</data>
+  <data key="d1">@twosense7723</data>
+  <data key="d2">88</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0005392899038270116</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugx_wAPPrhIjyUdSRed4AaABAg.AIRwnJYKTQoAIUWpBAdy14">
+  <data key="d0">WHO ARE THEY TELL ME WHO?</data>
+  <data key="d1">@loshmyle</data>
+  <data key="d2">14</data>
+  <data key="d3">True</data>
+  <data key="d4">0.001491932780481875</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugx_wAPPrhIjyUdSRed4AaABAg.AIRwnJYKTQoAIUqsHpmgby">
+  <data key="d0">Agreed she is very special. We should get her a he</data>
+  <data key="d1">@BNMS217</data>
+  <data key="d2">8</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0012778978561982512</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugx_wAPPrhIjyUdSRed4AaABAg.AIRwnJYKTQoAIX8cojWCp8">
+  <data key="d0">Can we please stop using "they" when referring to </data>
+  <data key="d1">@claudiastokes6485</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0007268160698004067</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugx_wAPPrhIjyUdSRed4AaABAg.AIRwnJYKTQoAIYn57xQq8L">
+  <data key="d0">Bella acoustic Ramsey</data>
+  <data key="d1">@Youcantphazeme24</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0009202565997838974</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugx_wAPPrhIjyUdSRed4AaABAg.AIRwnJYKTQoAIYou1pdBU0">
+  <data key="d0">@@claudiastokes6485nope, singular use of they is p</data>
+  <data key="d1">@AAurora_96</data>
+  <data key="d2">2</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0010476255556568503</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgybfNCzjyEwbM0e4kR4AaABAg">
+  <data key="d0">Bella ily 😭</data>
+  <data key="d1">@aiinhoaa12</data>
+  <data key="d2">25</data>
+  <data key="d3">False</data>
+  <data key="d4">0.005451723001897335</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgybfNCzjyEwbM0e4kR4AaABAg.AITGKDKZttPAITV74mEdOU">
+  <data key="d0">Bot</data>
+  <data key="d1">@jdiggidydog</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.002363972831517458</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgybfNCzjyEwbM0e4kR4AaABAg.AITGKDKZttPAIbMkEAJ_EJ">
+  <data key="d0">@@jdiggidydogseriously</data>
+  <data key="d1">@juanrabanales4933</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.030625272542238235</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzTpaFq1_6bXa2BccB4AaABAg">
+  <data key="d0">She has one of the most natural-sounding American </data>
+  <data key="d1">@pepperjack91</data>
+  <data key="d2">48</data>
+  <data key="d3">False</data>
+  <data key="d4">0.000628787325695157</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgzTpaFq1_6bXa2BccB4AaABAg.AITzD_3xjmCAIU5dTsPt7q">
+  <data key="d0">fr I didn't even know Bella was British until I sa</data>
+  <data key="d1">@copperbean15</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0005979659617878497</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzTpaFq1_6bXa2BccB4AaABAg.AITzD_3xjmCAIVfrOQox3K">
+  <data key="d0">Because she's a toff</data>
+  <data key="d1">@blackniall8509</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.7916374206542969</data>
+  <data key="d5">tóxico</data>
+  <data key="d6">#ff4d4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzTpaFq1_6bXa2BccB4AaABAg.AITzD_3xjmCAIcFklPnw5R">
+  <data key="d0">There are a LOT of Americas who talk like that tho</data>
+  <data key="d1">@Insanepie</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.026012057438492775</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwIFJVoeENUXnQVZj94AaABAg">
+  <data key="d0">What a cool interview!! Bella is a beautiful perso</data>
+  <data key="d1">@jardaland.</data>
+  <data key="d2">40</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0009955244604498148</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugwku-2ZYw2vGL9y3qt4AaABAg">
+  <data key="d0">hey GQ, maybe it's a great time to limit the comme</data>
+  <data key="d1">@nzz-x9s</data>
+  <data key="d2">103</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0014909150777384639</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugwku-2ZYw2vGL9y3qt4AaABAg.AIRGOwXeN1hAIRL9xhZWbY">
+  <data key="d0">hey you stfu, you probably didnt even play the gam</data>
+  <data key="d1">@Beerleyman</data>
+  <data key="d2">2</data>
+  <data key="d3">True</data>
+  <data key="d4">0.8528209924697876</data>
+  <data key="d5">tóxico</data>
+  <data key="d6">#ff4d4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugwku-2ZYw2vGL9y3qt4AaABAg.AIRGOwXeN1hAIRSljfYGKO">
+  <data key="d0">Haha, outstanding... thanks for sharing how little</data>
+  <data key="d1">@user-Marrk</data>
+  <data key="d2">32</data>
+  <data key="d3">True</data>
+  <data key="d4">0.009216686710715294</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugwku-2ZYw2vGL9y3qt4AaABAg.AIRGOwXeN1hAIRVllRrLDM">
+  <data key="d0">lol you have 0 knowledge of acting i see</data>
+  <data key="d1">@Yellow123Cy</data>
+  <data key="d2">12</data>
+  <data key="d3">True</data>
+  <data key="d4">0.14596056938171387</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugwku-2ZYw2vGL9y3qt4AaABAg.AIRGOwXeN1hAIRW7EgnHL1">
+  <data key="d0">I’m all for limiting comments. We don’t have to to</data>
+  <data key="d1">@GrayHung</data>
+  <data key="d2">10</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0019503097282722592</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugwku-2ZYw2vGL9y3qt4AaABAg.AIRGOwXeN1hAIRXL3AJ3ln">
+  <data key="d0">@@GrayHungbut saying she’s a terrible actor is a f</data>
+  <data key="d1">@yeezylegit4883</data>
+  <data key="d2">14</data>
+  <data key="d3">True</data>
+  <data key="d4">0.03175581246614456</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgyIHk4nH5Degay1BPh4AaABAg">
+  <data key="d0">I think they did Bella dirty in the show- for some</data>
+  <data key="d1">@bellamybomb</data>
+  <data key="d2">41</data>
+  <data key="d3">False</data>
+  <data key="d4">0.00561456847935915</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgyIHk4nH5Degay1BPh4AaABAg.AIT_yiCyoCJAIVQs60H2XR">
+  <data key="d0">😂😂😂</data>
+  <data key="d1">@loshmyle</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0052306875586509705</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgyIHk4nH5Degay1BPh4AaABAg.AIT_yiCyoCJAIb-YfkSuNR">
+  <data key="d0">You do realize that this is a fungal outbreak?</data>
+  <data key="d1">@brandyspain7125</data>
+  <data key="d2">3</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0006591295241378248</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgyIHk4nH5Degay1BPh4AaABAg.AIT_yiCyoCJAIlODSIzSOl">
+  <data key="d0">well bella is an actor in a studio with beauty lig</data>
+  <data key="d1">@eatingketchupchips9567</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.000798182503785938</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzebcqPjfTqd6FOWxl4AaABAg">
+  <data key="d0">Bella is truly a superstar actor and human!!! 🤍💫 G</data>
+  <data key="d1">@meganmoore4087</data>
+  <data key="d2">49</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0032371829729527235</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgzebcqPjfTqd6FOWxl4AaABAg.AIRo64V6C1qAITwuplyl4b">
+  <data key="d0">Is that why the audience score sits at 39 percent </data>
+  <data key="d1">@thomasrosendahl2783</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0012797737726941705</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzebcqPjfTqd6FOWxl4AaABAg.AIRo64V6C1qAIZIqa_eS-1">
+  <data key="d0">Superstar actor? 100% not.
+A human? Debatable.</data>
+  <data key="d1">@CaptainTrololo</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0010676962556317449</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzebcqPjfTqd6FOWxl4AaABAg.AIRo64V6C1qAIeGOWooVgz">
+  <data key="d0">@@CaptainTrololo lol bruh</data>
+  <data key="d1">@tars3249</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.010126038454473019</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzebcqPjfTqd6FOWxl4AaABAg.AIRo64V6C1qAIeGUGsrcfJ">
+  <data key="d0">I'll have whatever you are smoking.</data>
+  <data key="d1">@tars3249</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.025943802669644356</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgxMqBqacq57nr8a98V4AaABAg">
+  <data key="d0">She’s an amazing Ellie</data>
+  <data key="d1">@aidenbell3935</data>
+  <data key="d2">34</data>
+  <data key="d3">False</data>
+  <data key="d4">0.001049261074513197</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgxMqBqacq57nr8a98V4AaABAg.AIRt0jmTFgSAISiYVBaS44">
+  <data key="d0">😂😂😂</data>
+  <data key="d1">@davidl3083</data>
+  <data key="d2">13</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0052306875586509705</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgxMqBqacq57nr8a98V4AaABAg.AIRt0jmTFgSAITfa-oBoAb">
+  <data key="d0">Not even close</data>
+  <data key="d1">@Dan-ji4db</data>
+  <data key="d2">4</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0011896068463101983</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgxMqBqacq57nr8a98V4AaABAg.AIRt0jmTFgSAITwndS8bIK">
+  <data key="d0">Cailee Spaeny is the only Ellie</data>
+  <data key="d1">@thomasrosendahl2783</data>
+  <data key="d2">5</data>
+  <data key="d3">True</data>
+  <data key="d4">0.015688421204686165</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgxMqBqacq57nr8a98V4AaABAg.AIRt0jmTFgSAIn3LitgRVC">
+  <data key="d0">You mean "They/Them" ?</data>
+  <data key="d1">@kaneidareyue7715</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0008421065867878497</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugz8dzLJegF1hmIOGdJ4AaABAg">
+  <data key="d0">People take issue with Ellie not knowing triangula</data>
+  <data key="d1">@AJB9806</data>
+  <data key="d2">60</data>
+  <data key="d3">False</data>
+  <data key="d4">0.001200182130560279</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugz8dzLJegF1hmIOGdJ4AaABAg.AISeLus_YADAIU6rRZhbZb">
+  <data key="d0">No</data>
+  <data key="d1">@Emtrax.</data>
+  <data key="d2">16</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0012503137113526464</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugz8dzLJegF1hmIOGdJ4AaABAg.AISeLus_YADAIUWgTS6x9d">
+  <data key="d0">they made her dumber in show another bot</data>
+  <data key="d1">@loshmyle</data>
+  <data key="d2">16</data>
+  <data key="d3">True</data>
+  <data key="d4">0.7781716585159302</data>
+  <data key="d5">tóxico</data>
+  <data key="d6">#ff4d4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugz8dzLJegF1hmIOGdJ4AaABAg.AISeLus_YADAI_ONMRaxXV">
+  <data key="d0">The modern audience's synopsis😅 The list goes on..</data>
+  <data key="d1">@idontplaygames3k296</data>
+  <data key="d2">2</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0011824803659692407</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzDGHj0gYoZpHsJRwB4AaABAg">
+  <data key="d0">I see a Bella Ramsey interview, I like instantly</data>
+  <data key="d1">@karengeekstp3970</data>
+  <data key="d2">60</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0005597653216682374</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgzDGHj0gYoZpHsJRwB4AaABAg.AIRGb36xbFpAIRSXL4C9R5">
+  <data key="d0">Of course you do, because stans like you are so sh</data>
+  <data key="d1">@user-Marrk</data>
+  <data key="d2">2</data>
+  <data key="d3">True</data>
+  <data key="d4">0.8701502680778503</data>
+  <data key="d5">tóxico</data>
+  <data key="d6">#ff4d4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwXKmGv66yk6ReVpJh4AaABAg">
+  <data key="d0">Bella you do a great job! Love your Ellie</data>
+  <data key="d1">@유윤이-y7q</data>
+  <data key="d2">175</data>
+  <data key="d3">False</data>
+  <data key="d4">0.001178318983875215</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgwXKmGv66yk6ReVpJh4AaABAg.AIR5s6BM5PoAIRS_VoIWSL">
+  <data key="d0">Lol Ellie, she could be a Susan, same thing.</data>
+  <data key="d1">@user-Marrk</data>
+  <data key="d2">12</data>
+  <data key="d3">True</data>
+  <data key="d4">0.004028595983982086</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwXKmGv66yk6ReVpJh4AaABAg.AIR5s6BM5PoAITf2Hj7-m0">
+  <data key="d0">Terrible</data>
+  <data key="d1">@Dan-ji4db</data>
+  <data key="d2">5</data>
+  <data key="d3">True</data>
+  <data key="d4">0.10562613606452942</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwXKmGv66yk6ReVpJh4AaABAg.AIR5s6BM5PoAIZHs2l6cX_">
+  <data key="d0">Wrong</data>
+  <data key="d1">@CaptainTrololo</data>
+  <data key="d2">5</data>
+  <data key="d3">True</data>
+  <data key="d4">0.001035706838592887</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwsB0vJZ-zp_EDJmK54AaABAg">
+  <data key="d0">Big fan of the game. I still play it to this day a</data>
+  <data key="d1">@premobhai</data>
+  <data key="d2">38</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0006523432093672454</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgwsB0vJZ-zp_EDJmK54AaABAg.AISyue2uHEPAIUWdDm0YEz">
+  <data key="d0">If u are fan of a game u wouldn't say this bad cas</data>
+  <data key="d1">@loshmyle</data>
+  <data key="d2">5</data>
+  <data key="d3">True</data>
+  <data key="d4">0.07174666970968246</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwsB0vJZ-zp_EDJmK54AaABAg.AISyue2uHEPAIV6csZymu7">
+  <data key="d0">@@loshmyle YES</data>
+  <data key="d1">@aaeena_934</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.003683599876239896</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugxp78NlZvSqv353BH94AaABAg">
+  <data key="d0">Great Job, massive fan of the games and loved both</data>
+  <data key="d1">@jamesswadlo7199</data>
+  <data key="d2">16</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0005990818026475608</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugxp78NlZvSqv353BH94AaABAg.AIc42sfiy8UAIctxx24_xZ">
+  <data key="d0">u did not like season 2 don’t lie 😭</data>
+  <data key="d1">@sanrichie1394</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.08582889288663864</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugxp78NlZvSqv353BH94AaABAg.AIc42sfiy8UAIdLx78E9-J">
+  <data key="d0">bot</data>
+  <data key="d1">@rolandravina1543</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.002363972831517458</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgxiE821R6cIdIthF4B4AaABAg">
+  <data key="d0">Shes doing great job indeed
+
+I can accept the both</data>
+  <data key="d1">@picoyeh2363</data>
+  <data key="d2">12</data>
+  <data key="d3">False</data>
+  <data key="d4">0.19258196651935577</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgxiE821R6cIdIthF4B4AaABAg.AIUmHPJmSsmAIZrEb9sOW7">
+  <data key="d0">who u lie us or urself woke activist?</data>
+  <data key="d1">@loshmyle</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.027477027848362923</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzeO6_BhNFKljK8Ta94AaABAg">
+  <data key="d0">I love them so much. They do an amazing representa</data>
+  <data key="d1">@ems1135</data>
+  <data key="d2">13</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0005814193864353001</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgzeO6_BhNFKljK8Ta94AaABAg.AITem_P_6J1AIVA4H7uUH6">
+  <data key="d0">Who else besides Bella are you referring to? Ashle</data>
+  <data key="d1">@IAmGeorgeLucas</data>
+  <data key="d2">5</data>
+  <data key="d3">True</data>
+  <data key="d4">0.000785276701208204</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzeO6_BhNFKljK8Ta94AaABAg.AITem_P_6J1AIVBRtwCp-n">
+  <data key="d0">It's a bot comment</data>
+  <data key="d1">@karmakiillsz</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.011325178667902946</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzeO6_BhNFKljK8Ta94AaABAg.AITem_P_6J1AIVU-v94HSG">
+  <data key="d0">Bruh 💀</data>
+  <data key="d1">@PeterVenom-y9l</data>
+  <data key="d2">2</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0024852976202964783</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzeO6_BhNFKljK8Ta94AaABAg.AITem_P_6J1AIW936xMicc">
+  <data key="d0">@@karmakiillsz no it isnt lmaoo</data>
+  <data key="d1">@ems1135</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.013817023485898972</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzeO6_BhNFKljK8Ta94AaABAg.AITem_P_6J1AIW94XZ1IlV">
+  <data key="d0">@@IAmGeorgeLucas bella goes by they/them</data>
+  <data key="d1">@ems1135</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.008512808009982109</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzR-fXuAz0Aw2yq9AR4AaABAg">
+  <data key="d0">Just a cool person. Her vibes are impeccable, tbh.</data>
+  <data key="d1">@SimplyGimpy</data>
+  <data key="d2">68</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0038464830722659826</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgzR-fXuAz0Aw2yq9AR4AaABAg.AIROrEpExLwAIRSTQ6rDgi">
+  <data key="d0">Lol, you watch a PR youtube video on a celeb and t</data>
+  <data key="d1">@user-Marrk</data>
+  <data key="d2">8</data>
+  <data key="d3">True</data>
+  <data key="d4">0.6951157450675964</data>
+  <data key="d5">tóxico</data>
+  <data key="d6">#ff4d4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzR-fXuAz0Aw2yq9AR4AaABAg.AIROrEpExLwAIRl7Dcq5Q_">
+  <data key="d0">@@user-Marrk and yet it's okay for you to assume t</data>
+  <data key="d1">@shaynedmp2001</data>
+  <data key="d2">5</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0015369963366538286</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzR-fXuAz0Aw2yq9AR4AaABAg.AIROrEpExLwAISdnlXHfuA">
+  <data key="d0">@@user-Marrk bro your like 70 you have an alien pf</data>
+  <data key="d1">@Padlock_Steve</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.5593728423118591</data>
+  <data key="d5">tóxico</data>
+  <data key="d6">#ffff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzR-fXuAz0Aw2yq9AR4AaABAg.AIROrEpExLwAISvs7gCCdW">
+  <data key="d0">@@Padlock_Steve Bro it's "you're" and In 2024 a la</data>
+  <data key="d1">@user-Marrk</data>
+  <data key="d2">4</data>
+  <data key="d3">True</data>
+  <data key="d4">0.19256454706192017</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzR-fXuAz0Aw2yq9AR4AaABAg.AIROrEpExLwAISwPRrLxSq">
+  <data key="d0">@@shaynedmp2001 I never said Bella is a bad person</data>
+  <data key="d1">@user-Marrk</data>
+  <data key="d2">3</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0024572545662522316</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugykyo8u5NRTufRltV54AaABAg">
+  <data key="d0">A lot unnecessary hate but what’s new with social </data>
+  <data key="d1">@JChap88</data>
+  <data key="d2">104</data>
+  <data key="d3">False</data>
+  <data key="d4">0.4661841094493866</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#ffff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugykyo8u5NRTufRltV54AaABAg.AIRKGJ59-2IAIRMXSioHto">
+  <data key="d0">It’s like why even go here. If you hate on her act</data>
+  <data key="d1">@luffirton</data>
+  <data key="d2">14</data>
+  <data key="d3">True</data>
+  <data key="d4">0.03822648152709007</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugykyo8u5NRTufRltV54AaABAg.AIRKGJ59-2IAIRXQ354T6M">
+  <data key="d0">@@luffirton it’s called freedom of speech</data>
+  <data key="d1">@yeezylegit4883</data>
+  <data key="d2">23</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0018841782584786415</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugykyo8u5NRTufRltV54AaABAg.AIRKGJ59-2IAIS-JSMgBSS">
+  <data key="d0">@@yeezylegit4883 yeah, freedom to act like a weird</data>
+  <data key="d1">@funkdahmental</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.314301073551178</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugykyo8u5NRTufRltV54AaABAg.AIRKGJ59-2IAIS44qcvXRz">
+  <data key="d0">It's pretty much necessary or they will never stop</data>
+  <data key="d1">@loshmyle</data>
+  <data key="d2">6</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0046303970739245415</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugykyo8u5NRTufRltV54AaABAg.AIRKGJ59-2IAIT99Fku4uv">
+  <data key="d0">🥔 🍠 🥔 🍠</data>
+  <data key="d1">@dazsnitj7310</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.02525336854159832</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzJNSh0sy903sAs7Hh4AaABAg">
+  <data key="d0">Why is everyone being so horrible to Bella? They s</data>
+  <data key="d1">@VictortthegreatWW</data>
+  <data key="d2">15</data>
+  <data key="d3">False</data>
+  <data key="d4">0.001158634782768786</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgzJNSh0sy903sAs7Hh4AaABAg.AISAMgpM8_CAIT9L4_U5c7">
+  <data key="d0">Nobody is talking abt her looks, its her acting! H</data>
+  <data key="d1">@NobleEagle</data>
+  <data key="d2">8</data>
+  <data key="d3">True</data>
+  <data key="d4">0.2073083221912384</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzJNSh0sy903sAs7Hh4AaABAg.AISAMgpM8_CAITx476hH9x">
+  <data key="d0">I have seen a lot of comments, about Bella being u</data>
+  <data key="d1">@thomasrosendahl2783</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0009026168845593929</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzJNSh0sy903sAs7Hh4AaABAg.AISAMgpM8_CAIU8c36JPuG">
+  <data key="d0">​@thomasrosendahl2783  let's be honest. She's a te</data>
+  <data key="d1">@KensDreaming</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.05715003237128258</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzJNSh0sy903sAs7Hh4AaABAg.AISAMgpM8_CAIUY_Z4mbqY">
+  <data key="d0">@@NobleEagle it's both to be honest u can't cast m</data>
+  <data key="d1">@loshmyle</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.003286076942458749</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgyQ3tDrBfechI5ZASd4AaABAg">
+  <data key="d0">Such a great interview. I love Bella personality</data>
+  <data key="d1">@Mian_tlou</data>
+  <data key="d2">8</data>
+  <data key="d3">False</data>
+  <data key="d4">0.000577245547901839</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugxc446W2JMdKvcU2B94AaABAg">
+  <data key="d0">"They were very keen on it being an adaptation and</data>
+  <data key="d1">@mercurywitchy</data>
+  <data key="d2">12</data>
+  <data key="d3">False</data>
+  <data key="d4">0.000612167059443891</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgwMy6s1WiAtgIVLi6V4AaABAg">
+  <data key="d0">If y’all hate her then why watch this video wtf.oh</data>
+  <data key="d1">@hotcakez4814</data>
+  <data key="d2">64</data>
+  <data key="d3">False</data>
+  <data key="d4">0.8126428127288818</data>
+  <data key="d5">tóxico</data>
+  <data key="d6">#ff4d4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgwMy6s1WiAtgIVLi6V4AaABAg.AIR3j6peVlJAIR46ogk1PF">
+  <data key="d0">I don't hate them. I just think they're really rea</data>
+  <data key="d1">@Omar_Little</data>
+  <data key="d2">19</data>
+  <data key="d3">True</data>
+  <data key="d4">0.045540809631347656</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwMy6s1WiAtgIVLi6V4AaABAg.AIR3j6peVlJAIR5tG2jqnx">
+  <data key="d0">@@Omar_Littleso what are u doing here in a video a</data>
+  <data key="d1">@marianagomez8566</data>
+  <data key="d2">15</data>
+  <data key="d3">True</data>
+  <data key="d4">0.029319316148757935</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwMy6s1WiAtgIVLi6V4AaABAg.AIR3j6peVlJAIR66Nr3VJ6">
+  <data key="d0">@@marianagomez8566 Because we all wanted this show</data>
+  <data key="d1">@plamen-vt</data>
+  <data key="d2">6</data>
+  <data key="d3">True</data>
+  <data key="d4">0.002254802966490388</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwMy6s1WiAtgIVLi6V4AaABAg.AIR3j6peVlJAIR6wipu8Li">
+  <data key="d0">@@plamen-vtoh ur mad mad and obsessed lmao must be</data>
+  <data key="d1">@marianagomez8566</data>
+  <data key="d2">14</data>
+  <data key="d3">True</data>
+  <data key="d4">0.8226141929626465</data>
+  <data key="d5">tóxico</data>
+  <data key="d6">#ff4d4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwMy6s1WiAtgIVLi6V4AaABAg.AIR3j6peVlJAIRHZz_m9Cx">
+  <data key="d0">Nothing but show watchers who’ve never played the </data>
+  <data key="d1">@multicooldude131</data>
+  <data key="d2">2</data>
+  <data key="d3">True</data>
+  <data key="d4">0.045973047614097595</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgxOls-jxmEnGwEaAZp4AaABAg">
+  <data key="d0">To be born the daughter of a HBO exec....thats it.</data>
+  <data key="d1">@sorp1zza</data>
+  <data key="d2">68</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0014499257085844874</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgxOls-jxmEnGwEaAZp4AaABAg.AIZ8YD2gcepAIZq2OfOaD9">
+  <data key="d0">Don't forget non-binary woke thing</data>
+  <data key="d1">@loshmyle</data>
+  <data key="d2">4</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0007193585042841733</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgxOls-jxmEnGwEaAZp4AaABAg.AIZ8YD2gcepAI_n_2ph993">
+  <data key="d0">Wow it all makes sense now… another Hollywood nepo</data>
+  <data key="d1">@iJustWannaRoxk</data>
+  <data key="d2">11</data>
+  <data key="d3">True</data>
+  <data key="d4">0.00463814428076148</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgxOls-jxmEnGwEaAZp4AaABAg.AIZ8YD2gcepAIaDPOwPX_u">
+  <data key="d0">That is simply not true.</data>
+  <data key="d1">@viteksvoboda</data>
+  <data key="d2">7</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0011260207975283265</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgxOls-jxmEnGwEaAZp4AaABAg.AIZ8YD2gcepAIaFaHKwuOe">
+  <data key="d0">​@@viteksvoboda that it's simple 💯 truth</data>
+  <data key="d1">@sorp1zza</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0015979984309524298</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgxOls-jxmEnGwEaAZp4AaABAg.AIZ8YD2gcepAIbc0-fjnbP">
+  <data key="d0">@@iJustWannaRoxkthats not true. just a rumor. Her </data>
+  <data key="d1">@Abby-th8ur</data>
+  <data key="d2">5</data>
+  <data key="d3">True</data>
+  <data key="d4">0.3123749792575836</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugy6ZB0ap32vHMWZrVd4AaABAg">
+  <data key="d0">i love bella so much</data>
+  <data key="d1">@julianamelo6348</data>
+  <data key="d2">16</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0012150006368756294</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugy6ZB0ap32vHMWZrVd4AaABAg.AITBHWKDYHiAITVDOFv7D8">
+  <data key="d0">Bot</data>
+  <data key="d1">@jdiggidydog</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.002363972831517458</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugy6ZB0ap32vHMWZrVd4AaABAg.AITBHWKDYHiAIT_aRPfT60">
+  <data key="d0">@@jdiggidydogyes, you’re</data>
+  <data key="d1">@julianamelo6348</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.7237101197242737</data>
+  <data key="d5">tóxico</data>
+  <data key="d6">#ff4d4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugx-HHPLHBn7SzEThft4AaABAg">
+  <data key="d0">I love their acting in this and many other shows. </data>
+  <data key="d1">@tshegofatsomanaka9859</data>
+  <data key="d2">22</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0006535628926940262</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugx-HHPLHBn7SzEThft4AaABAg.AISuLBy-yDgAITVHGbOdfF">
+  <data key="d0">Bot</data>
+  <data key="d1">@jdiggidydog</data>
+  <data key="d2">2</data>
+  <data key="d3">True</data>
+  <data key="d4">0.002363972831517458</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugz69rLVymyVFyTTh2l4AaABAg">
+  <data key="d0">3:02 just a different human embodying this person,</data>
+  <data key="d1">@rootedm00n</data>
+  <data key="d2">22</data>
+  <data key="d3">False</data>
+  <data key="d4">0.000961121404543519</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugz69rLVymyVFyTTh2l4AaABAg.AIW8ERhmvJqAIZqr13JryU">
+  <data key="d0">human embodying of WOKENESS</data>
+  <data key="d1">@loshmyle</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.014275445602834225</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugz69rLVymyVFyTTh2l4AaABAg.AIW8ERhmvJqAIajSuQznOa">
+  <data key="d0">She doesn’t</data>
+  <data key="d1">@burdawg3000</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0020734742283821106</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgyBr3anXYZWQlamEWt4AaABAg">
+  <data key="d0">She was so bad as Ellie. One of the worst casting </data>
+  <data key="d1">@urgray4212</data>
+  <data key="d2">135</data>
+  <data key="d3">False</data>
+  <data key="d4">0.18938934803009033</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgyBr3anXYZWQlamEWt4AaABAg.AIR3OuO5HDQAIR3uipGggF">
+  <data key="d0">Why?</data>
+  <data key="d1">@joshgrobansdrymouth</data>
+  <data key="d2">12</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0009686388075351715</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgyBr3anXYZWQlamEWt4AaABAg.AIR3OuO5HDQAIR71PNFvm5">
+  <data key="d0">@joshgrobansdrymouth She’s a terrible actress and </data>
+  <data key="d1">@TamePistachio</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.7135423421859741</data>
+  <data key="d5">tóxico</data>
+  <data key="d6">#ff4d4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgyBr3anXYZWQlamEWt4AaABAg.AIR3OuO5HDQAIR9gF70rzM">
+  <data key="d0">@joshgrobansdrymouthhave you played the game? Or s</data>
+  <data key="d1">@TheNotoriousKID</data>
+  <data key="d2">6</data>
+  <data key="d3">True</data>
+  <data key="d4">0.007433230057358742</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgyBr3anXYZWQlamEWt4AaABAg.AIR3OuO5HDQAIRA7VznLQM">
+  <data key="d0">⁠@@TheNotoriousKIDwow you didn’t give any real rea</data>
+  <data key="d1">@joshgrobansdrymouth</data>
+  <data key="d2">20</data>
+  <data key="d3">True</data>
+  <data key="d4">0.019595064222812653</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgyBr3anXYZWQlamEWt4AaABAg.AIR3OuO5HDQAIRCR886LhU">
+  <data key="d0">Cry about it</data>
+  <data key="d1">@homeland1128</data>
+  <data key="d2">5</data>
+  <data key="d3">True</data>
+  <data key="d4">0.012836449779570103</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgztWccSjs6Y6GbC84h4AaABAg">
+  <data key="d0">Bella isn’t just a vibe, she’s all the vibes</data>
+  <data key="d1">@48Hybrid70</data>
+  <data key="d2">31</data>
+  <data key="d3">False</data>
+  <data key="d4">0.014941904693841934</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgztWccSjs6Y6GbC84h4AaABAg.AIRklpwVJKbAIRkvzBmOSU">
+  <data key="d0">*they. But i totally agree</data>
+  <data key="d1">@shaynedmp2001</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0006659358623437583</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgztWccSjs6Y6GbC84h4AaABAg.AIRklpwVJKbAIRlFL59Yl4">
+  <data key="d0">@@shaynedmp2001 stfu it's clearly a female</data>
+  <data key="d1">@nicknickson3650</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.6521880626678467</data>
+  <data key="d5">tóxico</data>
+  <data key="d6">#ff4d4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgztWccSjs6Y6GbC84h4AaABAg.AIRklpwVJKbAIRzIOVSGPn">
+  <data key="d0">🥀🥀🥀🥔🥔🥔</data>
+  <data key="d1">@logicalreasoning9002</data>
+  <data key="d2">2</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0052306875586509705</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgztWccSjs6Y6GbC84h4AaABAg.AIRklpwVJKbAISFOLEhAwa">
+  <data key="d0">@@shaynedmp2001 She said in a recent interview tha</data>
+  <data key="d1">@trolo127florida</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.007607745006680489</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgztWccSjs6Y6GbC84h4AaABAg.AIRklpwVJKbAISKzWNqR6X">
+  <data key="d0">@@trolo127florida oh, if so that's awesome</data>
+  <data key="d1">@shaynedmp2001</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.00267769955098629</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugyb6UqlM1JoNonX59l4AaABAg">
+  <data key="d0">we love you bella ! &lt;33</data>
+  <data key="d1">@emonacloud</data>
+  <data key="d2">11</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0007374791312031448</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgzHcfgAFcme18G96OV4AaABAg">
+  <data key="d0">I love bella</data>
+  <data key="d1">@intoyouuuu</data>
+  <data key="d2">23</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0009170005796477199</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugzyj-ychL72ihdVBSZ4AaABAg">
+  <data key="d0">I think she’s doing a wonderful job playing Ellie❤</data>
+  <data key="d1">@murphylaw8803</data>
+  <data key="d2">6</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0009244767134077847</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugx6PjXWYDHpqwmgd5V4AaABAg">
+  <data key="d0">she's so adorable and talented!!!</data>
+  <data key="d1">@julianunezb</data>
+  <data key="d2">17</data>
+  <data key="d3">False</data>
+  <data key="d4">0.001091783749870956</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugx6PjXWYDHpqwmgd5V4AaABAg.AISOZeLWWfdAIT2lI6VQ1n">
+  <data key="d0">😂😂😂😂, yes, like  a bottle of beer</data>
+  <data key="d1">@Rebe-Caufman</data>
+  <data key="d2">6</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0010752532398328185</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugx6PjXWYDHpqwmgd5V4AaABAg.AISOZeLWWfdAIUYVOZjGY4">
+  <data key="d0">Like a potato</data>
+  <data key="d1">@loshmyle</data>
+  <data key="d2">3</data>
+  <data key="d3">True</data>
+  <data key="d4">0.11576540768146515</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugx6PjXWYDHpqwmgd5V4AaABAg.AISOZeLWWfdAIV9JMG0XtB">
+  <data key="d0">@@loshmyle keep saying what ever you want about he</data>
+  <data key="d1">@nan4800_n</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.010657481849193573</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwpcfNEKfE2AT5dU894AaABAg">
+  <data key="d0">我很喜欢bella的表演，也喜欢看她的采访她的英国腔很好听，作为非游戏粉觉得第二季很棒，但似乎有些人</data>
+  <data key="d1">@ruihuang7501</data>
+  <data key="d2">65</data>
+  <data key="d3">False</data>
+  <data key="d4">0.01485674548894167</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgwpcfNEKfE2AT5dU894AaABAg.AIRsxI_M42pAITrhda-wwE">
+  <data key="d0">so hbo got chinese bots posting +ve comments on th</data>
+  <data key="d1">@genericguy_</data>
+  <data key="d2">2</data>
+  <data key="d3">True</data>
+  <data key="d4">0.003804474603384733</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwpcfNEKfE2AT5dU894AaABAg.AIRsxI_M42pAIUxrQZuFNF">
+  <data key="d0">@@genericguy_ 这里没有HBO，但有剧迷和游戏粉丝最基本的良知和理性</data>
+  <data key="d1">@ruihuang7501</data>
+  <data key="d2">6</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0020395158790051937</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwpcfNEKfE2AT5dU894AaABAg.AIRsxI_M42pAIV9b868HK5">
+  <data key="d0">@@genericguy_ so if anyone saying something nice b</data>
+  <data key="d1">@nan4800_n</data>
+  <data key="d2">3</data>
+  <data key="d3">True</data>
+  <data key="d4">0.025392767041921616</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwpcfNEKfE2AT5dU894AaABAg.AIRsxI_M42pAIWhviJpKVL">
+  <data key="d0">So hen ai bing qi ling</data>
+  <data key="d1">@user-ev2gv9zk2t</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.1683369129896164</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwpcfNEKfE2AT5dU894AaABAg.AIRsxI_M42pAIa7lcHD5t4">
+  <data key="d0">“表演”在哪？LOL</data>
+  <data key="d1">@sweatydrug437</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.016070285812020302</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugy6T7S92Ej0Sck38wt4AaABAg">
+  <data key="d0">She is the Rebecca Black of this era.  Talented bu</data>
+  <data key="d1">@MattsGamblingSlots</data>
+  <data key="d2">12</data>
+  <data key="d3">False</data>
+  <data key="d4">0.1674489825963974</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugy6T7S92Ej0Sck38wt4AaABAg.AIgve_P5zTzAIi005_o2tN">
+  <data key="d0">What are you talking about? She seems to have only</data>
+  <data key="d1">@mariopane4966</data>
+  <data key="d2">5</data>
+  <data key="d3">True</data>
+  <data key="d4">0.1743728369474411</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugy6T7S92Ej0Sck38wt4AaABAg.AIgve_P5zTzAIi4T0v4myW">
+  <data key="d0">​​@@mariopane4966Then that's on the casting and th</data>
+  <data key="d1">@MattsGamblingSlots</data>
+  <data key="d2">2</data>
+  <data key="d3">True</data>
+  <data key="d4">0.008990704081952572</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugy6T7S92Ej0Sck38wt4AaABAg.AIgve_P5zTzAIkKj3YPDmv">
+  <data key="d0">Dont know how you got 5 likes for the comment</data>
+  <data key="d1">@MattsGamblingSlots</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0038491515442728996</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugy6T7S92Ej0Sck38wt4AaABAg.AIgve_P5zTzAIkMsEp9C5f">
+  <data key="d0">@@MattsGamblingSlotsidk, ask them.</data>
+  <data key="d1">@mariopane4966</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.018576575443148613</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugy6T7S92Ej0Sck38wt4AaABAg.AIgve_P5zTzAIn4YKRa6gw">
+  <data key="d0">Her job was to not attend the auditions, not accep</data>
+  <data key="d1">@kaneidareyue7715</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0015154738212004304</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugz3yuvXWhMsE2SSffF4AaABAg">
+  <data key="d0">bella seems so sweet they’re so cute</data>
+  <data key="d1">@p.i20391</data>
+  <data key="d2">11</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0013680396368727088</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgzwLGhso64akvF6XTJ4AaABAg">
+  <data key="d0">She's not a bad actress, but with that said, the t</data>
+  <data key="d1">@DiDiMacedoBR</data>
+  <data key="d2">54</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0017723179189488292</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgzwLGhso64akvF6XTJ4AaABAg.AIRFSrYi4oUAIRHFu8EpTn">
+  <data key="d0">Why</data>
+  <data key="d1">@RobertLivingston828</data>
+  <data key="d2">4</data>
+  <data key="d3">True</data>
+  <data key="d4">0.002538226544857025</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzwLGhso64akvF6XTJ4AaABAg.AIRFSrYi4oUAIRI2M9hH2-">
+  <data key="d0">@@RobertLivingston828Bro is like you having a Blac</data>
+  <data key="d1">@Bertô1YT神</data>
+  <data key="d2">2</data>
+  <data key="d3">True</data>
+  <data key="d4">0.2512305676937103</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzwLGhso64akvF6XTJ4AaABAg.AIRFSrYi4oUAIROc_dTAUK">
+  <data key="d0">Actually, most gamers don’t care about how the act</data>
+  <data key="d1">@spoofy9759</data>
+  <data key="d2">5</data>
+  <data key="d3">True</data>
+  <data key="d4">0.005339372903108597</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzwLGhso64akvF6XTJ4AaABAg.AIRFSrYi4oUAIRTERvxwb5">
+  <data key="d0">@@spoofy9759 Funny because Bella acts nothing like</data>
+  <data key="d1">@user-Marrk</data>
+  <data key="d2">8</data>
+  <data key="d3">True</data>
+  <data key="d4">0.024662816897034645</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzwLGhso64akvF6XTJ4AaABAg.AIRFSrYi4oUAIRUzX9zd5X">
+  <data key="d0">@@spoofy9759NOT TRUE, also if the characters does </data>
+  <data key="d1">@Bertô1YT神</data>
+  <data key="d2">3</data>
+  <data key="d3">True</data>
+  <data key="d4">0.002616704208776355</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugx63ujXQeinyAQ7DbR4AaABAg">
+  <data key="d0">Comments are bots</data>
+  <data key="d1">@safwan8270</data>
+  <data key="d2">5</data>
+  <data key="d3">False</data>
+  <data key="d4">0.015214798040688038</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgxTsC_G7-gCUQxgWFJ4AaABAg">
+  <data key="d0">Not Ellie.</data>
+  <data key="d1">@kingkaizer9791</data>
+  <data key="d2">44</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0009906451450660825</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgxTsC_G7-gCUQxgWFJ4AaABAg.AIYjvQNew9jAIi-bBZ35i6">
+  <data key="d0">Your mom is not too</data>
+  <data key="d1">@logan.notes254</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.7839154601097107</data>
+  <data key="d5">tóxico</data>
+  <data key="d6">#ff4d4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgxTsC_G7-gCUQxgWFJ4AaABAg.AIYjvQNew9jAIjZz1uNW7Z">
+  <data key="d0">@@logan.notes254 Mom insults are only used by lose</data>
+  <data key="d1">@kingkaizer9791</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.8581174612045288</data>
+  <data key="d5">tóxico</data>
+  <data key="d6">#ff4d4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgxTP-sgLJSqNp6wSg14AaABAg">
+  <data key="d0">Great Job, Bella!</data>
+  <data key="d1">@YassinAdam</data>
+  <data key="d2">5</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0015599137404933572</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgxTP-sgLJSqNp6wSg14AaABAg.AIU4NF91O73AIU4d5OqTwc">
+  <data key="d0">Power to her. I don't get the wave of hatred, espe</data>
+  <data key="d1">@YassinAdam</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0013422071933746338</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgycvJzCzqsezUnsKNN4AaABAg">
+  <data key="d0">Bella is perfect! ❤❤</data>
+  <data key="d1">@Kiitosxiexie</data>
+  <data key="d2">19</data>
+  <data key="d3">False</data>
+  <data key="d4">0.008680793456733227</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugy7Fypvsa0tCe-wugp4AaABAg">
+  <data key="d0">Anyone defending her portrayal of Ellie in s2 is u</data>
+  <data key="d1">@RichardWingo</data>
+  <data key="d2">17</data>
+  <data key="d3">False</data>
+  <data key="d4">0.05466179549694061</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugy7Fypvsa0tCe-wugp4AaABAg.AISUZxSJbnrAIS_fIUnEYy">
+  <data key="d0">jar jar paradox</data>
+  <data key="d1">@Padlock_Steve</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0011475164210423827</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugy7Fypvsa0tCe-wugp4AaABAg.AISUZxSJbnrAISnYKhQu_H">
+  <data key="d0">She’s really not that bad honestly, a lot of it is</data>
+  <data key="d1">@spadesofpaintstudios1719</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0013975031906738877</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgxLKVkP5zWE_qJzeSJ4AaABAg">
+  <data key="d0">Such a great performance</data>
+  <data key="d1">@Matt561</data>
+  <data key="d2">9</data>
+  <data key="d3">False</data>
+  <data key="d4">0.002027183538302779</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgzlBwXkuj_KMTMCUlh4AaABAg">
+  <data key="d0">They're doing a great job as Ellie!</data>
+  <data key="d1">@slitheringsloth</data>
+  <data key="d2">14</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0015116696013137698</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgzlBwXkuj_KMTMCUlh4AaABAg.AIRrDbW4oFIAIT7RRtNtkg">
+  <data key="d0">she is not!</data>
+  <data key="d1">@Leenroc</data>
+  <data key="d2">4</data>
+  <data key="d3">True</data>
+  <data key="d4">0.008037525229156017</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwywCN11GAJCS5Z8w54AaABAg">
+  <data key="d0">the best ❤</data>
+  <data key="d1">@abrillt</data>
+  <data key="d2">8</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0006599736516363919</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgyXQuEnez5-zp7SmwJ4AaABAg">
+  <data key="d0">One of the most brilliant multitalented kindest ac</data>
+  <data key="d1">@coleche7117</data>
+  <data key="d2">4</data>
+  <data key="d3">False</data>
+  <data key="d4">0.004211036954075098</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugx4io-TXuiL_KD5NUJ4AaABAg">
+  <data key="d0">I love them, they're great ❤❤❤</data>
+  <data key="d1">@ITACA841</data>
+  <data key="d2">19</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0006784736178815365</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgyvziG1HnXwDz0G9Qd4AaABAg">
+  <data key="d0">Bella you are amazing</data>
+  <data key="d1">@pipiola707</data>
+  <data key="d2">8</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0007540912483818829</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgxTknSHuNL0_htuQiV4AaABAg">
+  <data key="d0">Here come all the incels with their middle school </data>
+  <data key="d1">@joshgrobansdrymouth</data>
+  <data key="d2">80</data>
+  <data key="d3">False</data>
+  <data key="d4">0.5109951496124268</data>
+  <data key="d5">tóxico</data>
+  <data key="d6">#ffff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgxTknSHuNL0_htuQiV4AaABAg.AIR4ddyxoKjAIR5urO3pvV">
+  <data key="d0">@@priyanshusharma1812wow, talk about the most low </data>
+  <data key="d1">@joshgrobansdrymouth</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.9478495717048645</data>
+  <data key="d5">tóxico</data>
+  <data key="d6">#ff4d4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgxTknSHuNL0_htuQiV4AaABAg.AIR4ddyxoKjAIRJ-dEKZ9w">
+  <data key="d0">😂😂😂</data>
+  <data key="d1">@justnahayo8490</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0052306875586509705</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgxTknSHuNL0_htuQiV4AaABAg.AIR4ddyxoKjAIRJ4ghMP7t">
+  <data key="d0">Alongside reasonable criticism, that's allowed, yo</data>
+  <data key="d1">@fraugiblets6955</data>
+  <data key="d2">15</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0006185253150761127</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgxTknSHuNL0_htuQiV4AaABAg.AIR4ddyxoKjAIRSuJQHlml">
+  <data key="d0">By your logic, you must be the white knight stan, </data>
+  <data key="d1">@user-Marrk</data>
+  <data key="d2">6</data>
+  <data key="d3">True</data>
+  <data key="d4">0.09074955433607101</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgxTknSHuNL0_htuQiV4AaABAg.AIR4ddyxoKjAIRWUtUJejZ">
+  <data key="d0">@@fraugiblets6955except 90% has been middle school</data>
+  <data key="d1">@joshgrobansdrymouth</data>
+  <data key="d2">3</data>
+  <data key="d3">True</data>
+  <data key="d4">0.2192811667919159</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwQVX3wXeCrssNwnuN4AaABAg">
+  <data key="d0">AND THATS WHY SHES OUR ELLIE!! I look forward to s</data>
+  <data key="d1">@WatchMeBIink</data>
+  <data key="d2">7</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0038307909853756428</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgwQVX3wXeCrssNwnuN4AaABAg.AITlmSFCa53AIgRn3qj76x">
+  <data key="d0">I've never played the game but I'm offended on beh</data>
+  <data key="d1">@SlashinatorZ</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.030313855037093163</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwoEnERJBQQNpXP75l4AaABAg">
+  <data key="d0">Bella they could never make me hate you ❤</data>
+  <data key="d1">@joanne_gls8348</data>
+  <data key="d2">9</data>
+  <data key="d3">False</data>
+  <data key="d4">0.4834645986557007</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#ffff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgwoEnERJBQQNpXP75l4AaABAg.AITH1wjTTQvAITV61o6Nr5">
+  <data key="d0">Bot</data>
+  <data key="d1">@jdiggidydog</data>
+  <data key="d2">3</data>
+  <data key="d3">True</data>
+  <data key="d4">0.002363972831517458</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwoEnERJBQQNpXP75l4AaABAg.AITH1wjTTQvAIU1pG5qkvR">
+  <data key="d0">No one is trying to make you hate her.  Everyone h</data>
+  <data key="d1">@viperkillz_jdm7314</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.07153487205505371</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwoEnERJBQQNpXP75l4AaABAg.AITH1wjTTQvAIUY1yq4tUx">
+  <data key="d0">@@viperkillz_jdm7314 bro it's a woke cult glaze an</data>
+  <data key="d1">@loshmyle</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.18798615038394928</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwoEnERJBQQNpXP75l4AaABAg.AITH1wjTTQvAIVE-EVrccz">
+  <data key="d0">Keep cryin' loser ​@@viperkillz_jdm7314</data>
+  <data key="d1">@joanne_gls8348</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.8852976560592651</data>
+  <data key="d5">tóxico</data>
+  <data key="d6">#ff4d4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugz3-908MrYDNWqcosx4AaABAg">
+  <data key="d0">I love Bella. Bella is talented, cute, beautiful, </data>
+  <data key="d1">@Hami8892</data>
+  <data key="d2">48</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0006777297821827233</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugz3-908MrYDNWqcosx4AaABAg.AIT9LdtZ7FEAITVFAFRMGZ">
+  <data key="d0">Bot</data>
+  <data key="d1">@jdiggidydog</data>
+  <data key="d2">11</data>
+  <data key="d3">True</data>
+  <data key="d4">0.002363972831517458</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugz3-908MrYDNWqcosx4AaABAg.AIT9LdtZ7FEAIV38PlbQrl">
+  <data key="d0">And she's gonna become a dad ❤❤❤</data>
+  <data key="d1">@OGharambelivesgaming</data>
+  <data key="d2">4</data>
+  <data key="d3">True</data>
+  <data key="d4">0.16792090237140656</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugz3-908MrYDNWqcosx4AaABAg.AIT9LdtZ7FEAIVBE3Z1Cyw">
+  <data key="d0">Beautiful and handsome lmao what a bot comment ,</data>
+  <data key="d1">@karmakiillsz</data>
+  <data key="d2">6</data>
+  <data key="d3">True</data>
+  <data key="d4">0.12698832154273987</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugz3-908MrYDNWqcosx4AaABAg.AIT9LdtZ7FEAIVRYpk0JZs">
+  <data key="d0">😂😂😂😂😂😂</data>
+  <data key="d1">@Rebe-Caufman</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0052306875586509705</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugz3-908MrYDNWqcosx4AaABAg.AIT9LdtZ7FEAIgpeyn8XSW">
+  <data key="d0">that's my opinion 😊😊</data>
+  <data key="d1">@Hami8892</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0011568652698770165</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgxtXysuoq1yn1IICst4AaABAg">
+  <data key="d0">2:51 - 3:11 &amp; 4:25 - 4:43
+say louder to them who k</data>
+  <data key="d1">@taetoro</data>
+  <data key="d2">5</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0013680292759090662</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgxtXysuoq1yn1IICst4AaABAg.AISkmZ8oFNwAITV0ZKPKDj">
+  <data key="d0">Bot</data>
+  <data key="d1">@jdiggidydog</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.002363972831517458</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugx0CLJ3rihzok59ntJ4AaABAg">
+  <data key="d0">i looove bella as Ellie, thank you for existing my</data>
+  <data key="d1">@natalia.eliass</data>
+  <data key="d2">8</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0015436212997883558</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugx-uRgZp6ELo2VLOyl4AaABAg">
+  <data key="d0">I love Bella 🥰</data>
+  <data key="d1">@aidenblogs6209</data>
+  <data key="d2">10</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0010001265909522772</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugx-uRgZp6ELo2VLOyl4AaABAg.AIRVX9aFh4IAIRX9R1a6Kp">
+  <data key="d0">Said no one ever.</data>
+  <data key="d1">@yeezylegit4883</data>
+  <data key="d2">2</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0009482313180342317</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugx-uRgZp6ELo2VLOyl4AaABAg.AIRVX9aFh4IAIRfKwXqnei">
+  <data key="d0">@@yeezylegit4883I mean… this person literally just</data>
+  <data key="d1">@clintonswaim</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0011756888125091791</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugx-uRgZp6ELo2VLOyl4AaABAg.AIRVX9aFh4IAITJ0cChvNd">
+  <data key="d0">@@clintonswaim this isn’t a real person though it’</data>
+  <data key="d1">@yeezylegit4883</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0034334606025367975</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugx-uRgZp6ELo2VLOyl4AaABAg.AIRVX9aFh4IAITJXvs7tHp">
+  <data key="d0">​@@yeezylegit4883bro why so mad? 
+I really love Be</data>
+  <data key="d1">@aidenblogs6209</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.004631751216948032</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugx-uRgZp6ELo2VLOyl4AaABAg.AIRVX9aFh4IAITLgAWkJHK">
+  <data key="d0">@@aidenblogs6209 even that sounded like a bot</data>
+  <data key="d1">@yeezylegit4883</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.005885823629796505</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzFmj8VSlsOCXm4tSJ4AaABAg">
+  <data key="d0">Worst casting of all time I’m sorry</data>
+  <data key="d1">@spycheck</data>
+  <data key="d2">18</data>
+  <data key="d3">False</data>
+  <data key="d4">0.04509422183036804</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgwkYLxUp6Jpm3dUiqx4AaABAg">
+  <data key="d0">爱你 Bella Ramsey 真的是才华横溢且对专业十分认真到细节的新生代演员</data>
+  <data key="d1">@壹番</data>
+  <data key="d2">9</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0014777382602915168</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgwkYLxUp6Jpm3dUiqx4AaABAg.AISKzz173b-AIheIzTBl5t">
+  <data key="d0">ok Mr Chinese bot</data>
+  <data key="d1">@tallchief22</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0016209433088079095</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwkYLxUp6Jpm3dUiqx4AaABAg.AISKzz173b-AIkqOuOvbmB">
+  <data key="d0">@@tallchief22 😋omg, cave-brained racist with nothi</data>
+  <data key="d1">@壹番</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.8704671263694763</data>
+  <data key="d5">tóxico</data>
+  <data key="d6">#ff4d4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzGtd3_c8e8qruiHt14AaABAg">
+  <data key="d0">Why are people so mean to her?</data>
+  <data key="d1">@Gen_-6012</data>
+  <data key="d2">46</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0016521289944648743</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgzGtd3_c8e8qruiHt14AaABAg.AIR6sDJJq3VAIR9fHFrAij">
+  <data key="d0">because she is not suited for a Main character rol</data>
+  <data key="d1">@Ichigo-jr2dt</data>
+  <data key="d2">15</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0009048402425833046</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzGtd3_c8e8qruiHt14AaABAg.AIR6sDJJq3VAIRLd5vr1HF">
+  <data key="d0">Some people don't like potatoes</data>
+  <data key="d1">@stoneytheclown</data>
+  <data key="d2">8</data>
+  <data key="d3">True</data>
+  <data key="d4">0.01340507809072733</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzGtd3_c8e8qruiHt14AaABAg.AIR6sDJJq3VAIROkyQNwxH">
+  <data key="d0">@@Ichigo-jr2dtSo, that is not enough reason to cal</data>
+  <data key="d1">@pavleokic6807</data>
+  <data key="d2">14</data>
+  <data key="d3">True</data>
+  <data key="d4">0.7617176175117493</data>
+  <data key="d5">tóxico</data>
+  <data key="d6">#ff4d4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzGtd3_c8e8qruiHt14AaABAg.AIR6sDJJq3VAIRwwtSvXWJ">
+  <data key="d0">the internet is a terrible terrible place.</data>
+  <data key="d1">@imaclown-vt1zx</data>
+  <data key="d2">3</data>
+  <data key="d3">True</data>
+  <data key="d4">0.13546527922153473</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugx4oUbo8v9epj3ZIHV4AaABAg">
+  <data key="d0">"Everything she did..." and she did like nothing l</data>
+  <data key="d1">@liquid228</data>
+  <data key="d2">11</data>
+  <data key="d3">False</data>
+  <data key="d4">0.006097478326410055</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgxkxkwA894UOEmNt4J4AaABAg">
+  <data key="d0">That jacket and shirt combo is super aesthetic</data>
+  <data key="d1">@FishCoaching77</data>
+  <data key="d2">1</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0008523582946509123</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgxkxkwA894UOEmNt4J4AaABAg.AIgB7w-NtT4AIlFooJFos2">
+  <data key="d0">Yes</data>
+  <data key="d1">@hegaukatze1599</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0009408529731445014</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgxGtOCrBXR4DwoIfL54AaABAg">
+  <data key="d0">bro bella is such a great actor idk why people hat</data>
+  <data key="d1">@willow_does_stuff16</data>
+  <data key="d2">0</data>
+  <data key="d3">False</data>
+  <data key="d4">0.41593000292778015</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#ffff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgyFBiKCpk9U5DOBdFt4AaABAg">
+  <data key="d0">Bella's amazing. :)</data>
+  <data key="d1">@Triskaan</data>
+  <data key="d2">39</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0006835167296230793</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgyFBiKCpk9U5DOBdFt4AaABAg.AIRA6TDMUj-AIgT9RmwU32">
+  <data key="d0">So why not someone gorgeous like Ever Anderson to </data>
+  <data key="d1">@SlashinatorZ</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.001438639941625297</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugw1x9Sszbu-eZUE8tl4AaABAg">
+  <data key="d0">Loved your performance Bella, excited for season 3</data>
+  <data key="d1">@kevinpalazzola</data>
+  <data key="d2">1</data>
+  <data key="d3">False</data>
+  <data key="d4">0.000763113028369844</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgzkQffGPxLEvgHwdhV4AaABAg">
+  <data key="d0">Sweet girl , but there’s nothing that compares to </data>
+  <data key="d1">@FinalGirlFridays</data>
+  <data key="d2">5</data>
+  <data key="d3">False</data>
+  <data key="d4">0.000781963870394975</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgwNwf54-kU2gZRWoql4AaABAg">
+  <data key="d0">HBO Its not too late to recast for Season 3... Giv</data>
+  <data key="d1">@711mariokart</data>
+  <data key="d2">1</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0008722670027054846</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgxS7laqZo3gF5Ex5Bd4AaABAg">
+  <data key="d0">Nothing, she did nothing. Could not even be bother</data>
+  <data key="d1">@wulfrache</data>
+  <data key="d2">11</data>
+  <data key="d3">False</data>
+  <data key="d4">0.10299281030893326</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugy989kDBN0V0vZeNtp4AaABAg">
+  <data key="d0">She did everything but learn how to act.</data>
+  <data key="d1">@brendanjones3235</data>
+  <data key="d2">9</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0025718684773892164</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugxf8J7WfzhyFBxnY-x4AaABAg">
+  <data key="d0">She's an amazing actor! I can't wait to see her in</data>
+  <data key="d1">@jenniferwelch4299</data>
+  <data key="d2">0</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0009556576842442155</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgxHQuzwAhaTGqlZFAF4AaABAg">
+  <data key="d0">I like her</data>
+  <data key="d1">@Strafuzz</data>
+  <data key="d2">6</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0015883167507126927</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgxHQuzwAhaTGqlZFAF4AaABAg.AISabgWzJivAITVJu1pd8-">
+  <data key="d0">Bot</data>
+  <data key="d1">@jdiggidydog</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.002363972831517458</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzlCBPDj-9PzMsXdWZ4AaABAg">
+  <data key="d0">She didn't do anything to become Ellie because she</data>
+  <data key="d1">@smcdonough1427</data>
+  <data key="d2">14</data>
+  <data key="d3">False</data>
+  <data key="d4">0.2041601687669754</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgzlCBPDj-9PzMsXdWZ4AaABAg.AIXT3t5U2tCAIZq_L9PMki">
+  <data key="d0">Because mommy and daddy have HBO connections and w</data>
+  <data key="d1">@loshmyle</data>
+  <data key="d2">2</data>
+  <data key="d3">True</data>
+  <data key="d4">0.0013534680474549532</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgzlCBPDj-9PzMsXdWZ4AaABAg.AIXT3t5U2tCAIgRM_fFsKa">
+  <data key="d0">Rosie O'Donnell as Betty rubble all over again</data>
+  <data key="d1">@SlashinatorZ</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.002793512772768736</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwGW37dQtiHTw5VihF4AaABAg">
+  <data key="d0">Love you Bella ❤❤❤</data>
+  <data key="d1">@sherlockholmes12385</data>
+  <data key="d2">11</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0011935613583773375</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgwGW37dQtiHTw5VihF4AaABAg.AIRfUjHHM8FAIgRpRlptU2">
+  <data key="d0">Another bot</data>
+  <data key="d1">@SlashinatorZ</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.002331418450921774</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwGW37dQtiHTw5VihF4AaABAg.AIRfUjHHM8FAIgT7HRB9ck">
+  <data key="d0">​@@SlashinatorZOmg you caught me 🤖🤖</data>
+  <data key="d1">@sherlockholmes12385</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.052897777408361435</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgyvjGk4O7bQmMBz_CN4AaABAg">
+  <data key="d0">yayyy love you bella 😇</data>
+  <data key="d1">@emmuhgrace</data>
+  <data key="d2">9</data>
+  <data key="d3">False</data>
+  <data key="d4">0.002140763681381941</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgypsJO_Tm3upwNkCWV4AaABAg">
+  <data key="d0">LOVE BELLA</data>
+  <data key="d1">@noemieauger7205</data>
+  <data key="d2">10</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0013730695936828852</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugx6V4Q0sU1i6SAZHSl4AaABAg">
+  <data key="d0">love their energy so much</data>
+  <data key="d1">@AlwaysLoveBlueEyes</data>
+  <data key="d2">8</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0011419886723160744</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugx6V4Q0sU1i6SAZHSl4AaABAg.AITEusmA4O4AITVAWBuxYp">
+  <data key="d0">Bot</data>
+  <data key="d1">@jdiggidydog</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.002363972831517458</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgyLesfHX0qBwdfpqZl4AaABAg">
+  <data key="d0">people are cruel i love her</data>
+  <data key="d1">@lordmegatron4789</data>
+  <data key="d2">5</data>
+  <data key="d3">False</data>
+  <data key="d4">0.23674996197223663</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgwRrGlQNPKtPxUXtNl4AaABAg">
+  <data key="d0">Will never Watch the show because of bad casting a</data>
+  <data key="d1">@MW4Price</data>
+  <data key="d2">12</data>
+  <data key="d3">False</data>
+  <data key="d4">0.001124548027291894</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugwt76tbTZczJRhOZAx4AaABAg">
+  <data key="d0">If they told her not to play the games, there's no</data>
+  <data key="d1">@umar37549</data>
+  <data key="d2">3</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0009451110963709652</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgxDAH4oAMQ2xkk7W1p4AaABAg">
+  <data key="d0">I love Bella Ramsey as Ellie,I love this show.💚</data>
+  <data key="d1">@PiperBarry-uz6dc</data>
+  <data key="d2">0</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0005875850329175591</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgzGhq04QNf7n4O1pGh4AaABAg">
+  <data key="d0">All support to the show 
+It was great and got a lo</data>
+  <data key="d1">@abdullahsat3232</data>
+  <data key="d2">5</data>
+  <data key="d3">False</data>
+  <data key="d4">0.018505139276385307</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgzmPB8-MyVsb8_m4R14AaABAg">
+  <data key="d0">BELLLSSSSSSS &lt;3</data>
+  <data key="d1">@gelgography</data>
+  <data key="d2">11</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0015394446672871709</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugz14mZCCH6TEAHlYQF4AaABAg">
+  <data key="d0">Absolutely awful actor.</data>
+  <data key="d1">@Kiárán92</data>
+  <data key="d2">12</data>
+  <data key="d3">False</data>
+  <data key="d4">0.548991858959198</data>
+  <data key="d5">tóxico</data>
+  <data key="d6">#ffff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugw5SU7rvTNcRtJWkrZ4AaABAg">
+  <data key="d0">Bella ❤</data>
+  <data key="d1">@angelus_0015</data>
+  <data key="d2">9</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0034760809503495693</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugw5SU7rvTNcRtJWkrZ4AaABAg.AIRPuiJ_H67AIgTXcOZ6v_">
+  <data key="d0">Well I see you're not a bot at least. 
+So how was </data>
+  <data key="d1">@SlashinatorZ</data>
+  <data key="d2">1</data>
+  <data key="d3">True</data>
+  <data key="d4">0.18073053658008575</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgyO210CITzqBIt64lF4AaABAg">
+  <data key="d0">The paid bots in this comment section is crazy</data>
+  <data key="d1">@usversusthem_band</data>
+  <data key="d2">5</data>
+  <data key="d3">False</data>
+  <data key="d4">0.11529861390590668</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgyO210CITzqBIt64lF4AaABAg.AIUusmhMJAyAIZr9nCRzMD">
+  <data key="d0">i think it's some woke cult bro they are everywher</data>
+  <data key="d1">@loshmyle</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.006625760346651077</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="Ugwdrm8DSw-xtKzB_D54AaABAg">
+  <data key="d0">Why is this video so long? It should be a second l</data>
+  <data key="d1">@thetorvic23</data>
+  <data key="d2">1</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0008049583411775529</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgwDoorPP_UWHKwdch94AaABAg">
+  <data key="d0">Bella Ramsey’s performance as Ellie is some of the</data>
+  <data key="d1">@mrnemoid</data>
+  <data key="d2">5</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0007361561874859035</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgwDoorPP_UWHKwdch94AaABAg.AITG4HW4JBeAITUpmTnbjD">
+  <data key="d0">Bot</data>
+  <data key="d1">@jdiggidydog</data>
+  <data key="d2">2</data>
+  <data key="d3">True</data>
+  <data key="d4">0.002363972831517458</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwDoorPP_UWHKwdch94AaABAg.AITG4HW4JBeAITXdn96U6B">
+  <data key="d0">@@jdiggidydog very much a real person, I promise</data>
+  <data key="d1">@mrnemoid</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.013337102718651295</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgwHF7Z4sG-KRqVfkut4AaABAg">
+  <data key="d0">Waiting for nicola coughlan to do this for bridger</data>
+  <data key="d1">@keriagush3322</data>
+  <data key="d2">1</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0011193557875230908</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgzT_5hSn1eyzCNuaCF4AaABAg">
+  <data key="d0">Los haters están de moda😂 Da risa ver como inviert</data>
+  <data key="d1">@geraldinegonzalez5709</data>
+  <data key="d2">5</data>
+  <data key="d3">False</data>
+  <data key="d4">0.4189126193523407</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#ffff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgxW_eXWRcvc5gJ4Yil4AaABAg">
+  <data key="d0">Girl is so insufferable they’re just letting her d</data>
+  <data key="d1">@JJacob94</data>
+  <data key="d2">6</data>
+  <data key="d3">False</data>
+  <data key="d4">0.1350337713956833</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgyP2AjIESnXZjdpgVN4AaABAg">
+  <data key="d0">This will certainly go down as one of the worst mi</data>
+  <data key="d1">@Dan-ji4db</data>
+  <data key="d2">7</data>
+  <data key="d3">False</data>
+  <data key="d4">0.01297764666378498</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgyP2AjIESnXZjdpgVN4AaABAg.AITexGkhwH3AIcxj9sPPuo">
+  <data key="d0">If you’re so bothered just play the game bro</data>
+  <data key="d1">@chelseafink2904</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.03993751108646393</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgyP2AjIESnXZjdpgVN4AaABAg.AITexGkhwH3AIczBBuz0E1">
+  <data key="d0">I just did, bro ​@@chelseafink2904</data>
+  <data key="d1">@Dan-ji4db</data>
+  <data key="d2">0</data>
+  <data key="d3">True</data>
+  <data key="d4">0.012055772356688976</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">False</data>
+</node>
+<node id="UgylA0nJ5-LEvOfM8nx4AaABAg">
+  <data key="d0">IM GONNA BE A DAD!!!!! Hahahahahaha</data>
+  <data key="d1">@brianscheinberg1121</data>
+  <data key="d2">11</data>
+  <data key="d3">False</data>
+  <data key="d4">0.32952404022216797</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgyDPT4q1Gmv_FUy-Bd4AaABAg">
+  <data key="d0">Horrible actor - just terrible casting</data>
+  <data key="d1">@WestTexasForce</data>
+  <data key="d2">6</data>
+  <data key="d3">False</data>
+  <data key="d4">0.14396272599697113</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugy2wLf9h802JmInMF14AaABAg">
+  <data key="d0">Eres excelente actriz 🫰🏻</data>
+  <data key="d1">@haydemedina8546</data>
+  <data key="d2">4</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0019116083858534694</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgzT5e2LTmn8P6qEU514AaABAg">
+  <data key="d0">I don't think she prepared at all her accent slips</data>
+  <data key="d1">@DH-cj7nm</data>
+  <data key="d2">2</data>
+  <data key="d3">False</data>
+  <data key="d4">0.01326839905232191</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="Ugy5wKmGfX9AY9tYWTV4AaABAg">
+  <data key="d0">I like what they've done with the show. Live adapt</data>
+  <data key="d1">@janbaan4024</data>
+  <data key="d2">0</data>
+  <data key="d3">False</data>
+  <data key="d4">0.001023400342091918</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<node id="UgzoZZKQ4wCk6R7bUQB4AaABAg">
+  <data key="d0">I love isabella very much.</data>
+  <data key="d1">@jd-dclo</data>
+  <data key="d2">7</data>
+  <data key="d3">False</data>
+  <data key="d4">0.0006092960247769952</data>
+  <data key="d5">não tóxico</data>
+  <data key="d6">#4dff4d</data>
+  <data key="d7">True</data>
+</node>
+<edge source="UgxGLiRKBOqshURk7x94AaABAg" target="UgxGLiRKBOqshURk7x94AaABAg.AIRaJ-1wROPAITnF4B3bSU"/>
+<edge source="UgxGLiRKBOqshURk7x94AaABAg" target="UgxGLiRKBOqshURk7x94AaABAg.AIRaJ-1wROPAIU99LJbFYj"/>
+<edge source="UgxGLiRKBOqshURk7x94AaABAg" target="UgxGLiRKBOqshURk7x94AaABAg.AIRaJ-1wROPAIU9WuR8nVo"/>
+<edge source="UgxGLiRKBOqshURk7x94AaABAg" target="UgxGLiRKBOqshURk7x94AaABAg.AIRaJ-1wROPAIUF8h7PkUV"/>
+<edge source="UgxGLiRKBOqshURk7x94AaABAg" target="UgxGLiRKBOqshURk7x94AaABAg.AIRaJ-1wROPAIV8fkTSWrk"/>
+<edge source="UgxGLiRKBOqshURk7x94AaABAg" target="UgySFt0xzA7ySa0FUAJ4AaABAg.AISVOik_5isAITAmOiR-0x"/>
+<edge source="UgxGLiRKBOqshURk7x94AaABAg" target="UgySFt0xzA7ySa0FUAJ4AaABAg.AISVOik_5isAIUMdg8UU4T"/>
+<edge source="UgxGLiRKBOqshURk7x94AaABAg" target="UgySFt0xzA7ySa0FUAJ4AaABAg.AISVOik_5isAIUWMykWwOM"/>
+<edge source="UgxGLiRKBOqshURk7x94AaABAg" target="UgySFt0xzA7ySa0FUAJ4AaABAg.AISVOik_5isAIV6_ZaOi1F"/>
+<edge source="UgxGLiRKBOqshURk7x94AaABAg" target="UgySFt0xzA7ySa0FUAJ4AaABAg.AISVOik_5isAIVPAenfXU-"/>
+<edge source="UgxGLiRKBOqshURk7x94AaABAg" target="Ugxu-mvKIs-0OnYBq5Z4AaABAg.AIdM2pxzh2OAIhe84Xm5fe"/>
+<edge source="UgxGLiRKBOqshURk7x94AaABAg" target="UgwgGJuwRNQ3uxFgfuR4AaABAg.AIRXOBrikvJAITYyeZCrBB"/>
+<edge source="UgxGLiRKBOqshURk7x94AaABAg" target="UgwgGJuwRNQ3uxFgfuR4AaABAg.AIRXOBrikvJAIU5gI5dN02"/>
+<edge source="UgxGLiRKBOqshURk7x94AaABAg" target="UgwgGJuwRNQ3uxFgfuR4AaABAg.AIRXOBrikvJAIU5zEDd0uC"/>
+<edge source="UgySFt0xzA7ySa0FUAJ4AaABAg" target="UgwgGJuwRNQ3uxFgfuR4AaABAg.AIRXOBrikvJAIUAbttPPSr"/>
+<edge source="UgySFt0xzA7ySa0FUAJ4AaABAg" target="UgwgGJuwRNQ3uxFgfuR4AaABAg.AIRXOBrikvJAIUAzf4EOom"/>
+<edge source="UgySFt0xzA7ySa0FUAJ4AaABAg" target="Ugw9Gs0wb-t7edVtP4l4AaABAg.AIRkBL5nbYhAIUUg0r3cU6"/>
+<edge source="UgySFt0xzA7ySa0FUAJ4AaABAg" target="Ugw9Gs0wb-t7edVtP4l4AaABAg.AIRkBL5nbYhAIVA-1kPVyY"/>
+<edge source="UgySFt0xzA7ySa0FUAJ4AaABAg" target="Ugw9Gs0wb-t7edVtP4l4AaABAg.AIRkBL5nbYhAIVK9trnLor"/>
+<edge source="UgySFt0xzA7ySa0FUAJ4AaABAg" target="Ugw9Gs0wb-t7edVtP4l4AaABAg.AIRkBL5nbYhAI_P87pSrht"/>
+<edge source="UgySFt0xzA7ySa0FUAJ4AaABAg" target="Ugw9Gs0wb-t7edVtP4l4AaABAg.AIRkBL5nbYhAIeGHcxUGE0"/>
+<edge source="UgySFt0xzA7ySa0FUAJ4AaABAg" target="UgyFl9zCSUyMUzQSGBd4AaABAg.AIRRFwxcGR9AIRXEr2c0Y2"/>
+<edge source="UgySFt0xzA7ySa0FUAJ4AaABAg" target="UgyFl9zCSUyMUzQSGBd4AaABAg.AIRRFwxcGR9AIRXYfcKdzS"/>
+<edge source="UgySFt0xzA7ySa0FUAJ4AaABAg" target="UgyFl9zCSUyMUzQSGBd4AaABAg.AIRRFwxcGR9AIRZ7VHqKl4"/>
+<edge source="UgySFt0xzA7ySa0FUAJ4AaABAg" target="UgyFl9zCSUyMUzQSGBd4AaABAg.AIRRFwxcGR9AIS6QW0XcnF"/>
+<edge source="UgySFt0xzA7ySa0FUAJ4AaABAg" target="UgyFl9zCSUyMUzQSGBd4AaABAg.AIRRFwxcGR9AISbHAs021g"/>
+<edge source="UgySFt0xzA7ySa0FUAJ4AaABAg" target="Ugwf-mIEc8_RvQcJLwZ4AaABAg.AIRSsUHJC4QAIRXB_sLECe"/>
+<edge source="UgySFt0xzA7ySa0FUAJ4AaABAg" target="Ugwf-mIEc8_RvQcJLwZ4AaABAg.AIRSsUHJC4QAIRXP6CPSXr"/>
+<edge source="UgySFt0xzA7ySa0FUAJ4AaABAg" target="Ugwf-mIEc8_RvQcJLwZ4AaABAg.AIRSsUHJC4QAIRXeKlHBWt"/>
+<edge source="UgySFt0xzA7ySa0FUAJ4AaABAg" target="Ugwf-mIEc8_RvQcJLwZ4AaABAg.AIRSsUHJC4QAIRYe4iC6rO"/>
+<edge source="UgySFt0xzA7ySa0FUAJ4AaABAg" target="Ugwf-mIEc8_RvQcJLwZ4AaABAg.AIRSsUHJC4QAIRZ5JNxCub"/>
+<edge source="UgySFt0xzA7ySa0FUAJ4AaABAg" target="Ugx_wAPPrhIjyUdSRed4AaABAg.AIRwnJYKTQoAIUWpBAdy14"/>
+<edge source="Ugxu-mvKIs-0OnYBq5Z4AaABAg" target="Ugx_wAPPrhIjyUdSRed4AaABAg.AIRwnJYKTQoAIUqsHpmgby"/>
+<edge source="UgwgGJuwRNQ3uxFgfuR4AaABAg" target="Ugx_wAPPrhIjyUdSRed4AaABAg.AIRwnJYKTQoAIX8cojWCp8"/>
+<edge source="UgwgGJuwRNQ3uxFgfuR4AaABAg" target="Ugx_wAPPrhIjyUdSRed4AaABAg.AIRwnJYKTQoAIYn57xQq8L"/>
+<edge source="UgwgGJuwRNQ3uxFgfuR4AaABAg" target="Ugx_wAPPrhIjyUdSRed4AaABAg.AIRwnJYKTQoAIYou1pdBU0"/>
+<edge source="UgwgGJuwRNQ3uxFgfuR4AaABAg" target="UgybfNCzjyEwbM0e4kR4AaABAg.AITGKDKZttPAITV74mEdOU"/>
+<edge source="UgwgGJuwRNQ3uxFgfuR4AaABAg" target="UgybfNCzjyEwbM0e4kR4AaABAg.AITGKDKZttPAIbMkEAJ_EJ"/>
+<edge source="UgwgGJuwRNQ3uxFgfuR4AaABAg" target="UgzTpaFq1_6bXa2BccB4AaABAg.AITzD_3xjmCAIU5dTsPt7q"/>
+<edge source="UgwgGJuwRNQ3uxFgfuR4AaABAg" target="UgzTpaFq1_6bXa2BccB4AaABAg.AITzD_3xjmCAIVfrOQox3K"/>
+<edge source="UgwgGJuwRNQ3uxFgfuR4AaABAg" target="UgzTpaFq1_6bXa2BccB4AaABAg.AITzD_3xjmCAIcFklPnw5R"/>
+<edge source="UgwgGJuwRNQ3uxFgfuR4AaABAg" target="Ugwku-2ZYw2vGL9y3qt4AaABAg.AIRGOwXeN1hAIRL9xhZWbY"/>
+<edge source="UgwgGJuwRNQ3uxFgfuR4AaABAg" target="Ugwku-2ZYw2vGL9y3qt4AaABAg.AIRGOwXeN1hAIRSljfYGKO"/>
+<edge source="UgwgGJuwRNQ3uxFgfuR4AaABAg" target="Ugwku-2ZYw2vGL9y3qt4AaABAg.AIRGOwXeN1hAIRVllRrLDM"/>
+<edge source="UgwgGJuwRNQ3uxFgfuR4AaABAg" target="Ugwku-2ZYw2vGL9y3qt4AaABAg.AIRGOwXeN1hAIRW7EgnHL1"/>
+<edge source="UgwgGJuwRNQ3uxFgfuR4AaABAg" target="Ugwku-2ZYw2vGL9y3qt4AaABAg.AIRGOwXeN1hAIRXL3AJ3ln"/>
+<edge source="UgwgGJuwRNQ3uxFgfuR4AaABAg" target="UgyIHk4nH5Degay1BPh4AaABAg.AIT_yiCyoCJAIVQs60H2XR"/>
+<edge source="UgwgGJuwRNQ3uxFgfuR4AaABAg" target="UgyIHk4nH5Degay1BPh4AaABAg.AIT_yiCyoCJAIb-YfkSuNR"/>
+<edge source="UgwgGJuwRNQ3uxFgfuR4AaABAg" target="UgyIHk4nH5Degay1BPh4AaABAg.AIT_yiCyoCJAIlODSIzSOl"/>
+<edge source="UgwgGJuwRNQ3uxFgfuR4AaABAg" target="UgzebcqPjfTqd6FOWxl4AaABAg.AIRo64V6C1qAITwuplyl4b"/>
+<edge source="UgwgGJuwRNQ3uxFgfuR4AaABAg" target="UgzebcqPjfTqd6FOWxl4AaABAg.AIRo64V6C1qAIZIqa_eS-1"/>
+<edge source="Ugw9Gs0wb-t7edVtP4l4AaABAg" target="UgzebcqPjfTqd6FOWxl4AaABAg.AIRo64V6C1qAIeGOWooVgz"/>
+<edge source="Ugw9Gs0wb-t7edVtP4l4AaABAg" target="UgzebcqPjfTqd6FOWxl4AaABAg.AIRo64V6C1qAIeGUGsrcfJ"/>
+<edge source="Ugw9Gs0wb-t7edVtP4l4AaABAg" target="UgxMqBqacq57nr8a98V4AaABAg.AIRt0jmTFgSAISiYVBaS44"/>
+<edge source="Ugw9Gs0wb-t7edVtP4l4AaABAg" target="UgxMqBqacq57nr8a98V4AaABAg.AIRt0jmTFgSAITfa-oBoAb"/>
+<edge source="Ugw9Gs0wb-t7edVtP4l4AaABAg" target="UgxMqBqacq57nr8a98V4AaABAg.AIRt0jmTFgSAITwndS8bIK"/>
+<edge source="Ugw9Gs0wb-t7edVtP4l4AaABAg" target="UgxMqBqacq57nr8a98V4AaABAg.AIRt0jmTFgSAIn3LitgRVC"/>
+<edge source="Ugw9Gs0wb-t7edVtP4l4AaABAg" target="Ugz8dzLJegF1hmIOGdJ4AaABAg.AISeLus_YADAIU6rRZhbZb"/>
+<edge source="UgyFl9zCSUyMUzQSGBd4AaABAg" target="Ugz8dzLJegF1hmIOGdJ4AaABAg.AISeLus_YADAIUWgTS6x9d"/>
+<edge source="UgyFl9zCSUyMUzQSGBd4AaABAg" target="Ugz8dzLJegF1hmIOGdJ4AaABAg.AISeLus_YADAI_ONMRaxXV"/>
+<edge source="UgyFl9zCSUyMUzQSGBd4AaABAg" target="UgzDGHj0gYoZpHsJRwB4AaABAg.AIRGb36xbFpAIRSXL4C9R5"/>
+<edge source="UgyFl9zCSUyMUzQSGBd4AaABAg" target="UgwXKmGv66yk6ReVpJh4AaABAg.AIR5s6BM5PoAIRS_VoIWSL"/>
+<edge source="UgyFl9zCSUyMUzQSGBd4AaABAg" target="UgwXKmGv66yk6ReVpJh4AaABAg.AIR5s6BM5PoAITf2Hj7-m0"/>
+<edge source="UgyFl9zCSUyMUzQSGBd4AaABAg" target="UgwXKmGv66yk6ReVpJh4AaABAg.AIR5s6BM5PoAIZHs2l6cX_"/>
+<edge source="UgyFl9zCSUyMUzQSGBd4AaABAg" target="UgwsB0vJZ-zp_EDJmK54AaABAg.AISyue2uHEPAIUWdDm0YEz"/>
+<edge source="UgyFl9zCSUyMUzQSGBd4AaABAg" target="UgwsB0vJZ-zp_EDJmK54AaABAg.AISyue2uHEPAIV6csZymu7"/>
+<edge source="UgyFl9zCSUyMUzQSGBd4AaABAg" target="Ugxp78NlZvSqv353BH94AaABAg.AIc42sfiy8UAIctxx24_xZ"/>
+<edge source="UgyFl9zCSUyMUzQSGBd4AaABAg" target="Ugxp78NlZvSqv353BH94AaABAg.AIc42sfiy8UAIdLx78E9-J"/>
+<edge source="UgyFl9zCSUyMUzQSGBd4AaABAg" target="UgxiE821R6cIdIthF4B4AaABAg.AIUmHPJmSsmAIZrEb9sOW7"/>
+<edge source="UgyFl9zCSUyMUzQSGBd4AaABAg" target="UgzeO6_BhNFKljK8Ta94AaABAg.AITem_P_6J1AIVA4H7uUH6"/>
+<edge source="UgyFl9zCSUyMUzQSGBd4AaABAg" target="UgzeO6_BhNFKljK8Ta94AaABAg.AITem_P_6J1AIVBRtwCp-n"/>
+<edge source="UgyFl9zCSUyMUzQSGBd4AaABAg" target="UgzeO6_BhNFKljK8Ta94AaABAg.AITem_P_6J1AIVU-v94HSG"/>
+<edge source="UgyFl9zCSUyMUzQSGBd4AaABAg" target="UgzeO6_BhNFKljK8Ta94AaABAg.AITem_P_6J1AIW936xMicc"/>
+<edge source="UgyFl9zCSUyMUzQSGBd4AaABAg" target="UgzeO6_BhNFKljK8Ta94AaABAg.AITem_P_6J1AIW94XZ1IlV"/>
+<edge source="UgyFl9zCSUyMUzQSGBd4AaABAg" target="UgzR-fXuAz0Aw2yq9AR4AaABAg.AIROrEpExLwAIRSTQ6rDgi"/>
+<edge source="UgyFl9zCSUyMUzQSGBd4AaABAg" target="UgzR-fXuAz0Aw2yq9AR4AaABAg.AIROrEpExLwAIRl7Dcq5Q_"/>
+<edge source="UgyFl9zCSUyMUzQSGBd4AaABAg" target="UgzR-fXuAz0Aw2yq9AR4AaABAg.AIROrEpExLwAISdnlXHfuA"/>
+<edge source="UgyFl9zCSUyMUzQSGBd4AaABAg" target="UgzR-fXuAz0Aw2yq9AR4AaABAg.AIROrEpExLwAISvs7gCCdW"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="UgzR-fXuAz0Aw2yq9AR4AaABAg.AIROrEpExLwAISwPRrLxSq"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="Ugykyo8u5NRTufRltV54AaABAg.AIRKGJ59-2IAIRMXSioHto"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="Ugykyo8u5NRTufRltV54AaABAg.AIRKGJ59-2IAIRXQ354T6M"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="Ugykyo8u5NRTufRltV54AaABAg.AIRKGJ59-2IAIS-JSMgBSS"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="Ugykyo8u5NRTufRltV54AaABAg.AIRKGJ59-2IAIS44qcvXRz"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="Ugykyo8u5NRTufRltV54AaABAg.AIRKGJ59-2IAIT99Fku4uv"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="UgzJNSh0sy903sAs7Hh4AaABAg.AISAMgpM8_CAIT9L4_U5c7"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="UgzJNSh0sy903sAs7Hh4AaABAg.AISAMgpM8_CAITx476hH9x"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="UgzJNSh0sy903sAs7Hh4AaABAg.AISAMgpM8_CAIU8c36JPuG"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="UgzJNSh0sy903sAs7Hh4AaABAg.AISAMgpM8_CAIUY_Z4mbqY"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="UgwMy6s1WiAtgIVLi6V4AaABAg.AIR3j6peVlJAIR46ogk1PF"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="UgwMy6s1WiAtgIVLi6V4AaABAg.AIR3j6peVlJAIR5tG2jqnx"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="UgwMy6s1WiAtgIVLi6V4AaABAg.AIR3j6peVlJAIR66Nr3VJ6"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="UgwMy6s1WiAtgIVLi6V4AaABAg.AIR3j6peVlJAIR6wipu8Li"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="UgwMy6s1WiAtgIVLi6V4AaABAg.AIR3j6peVlJAIRHZz_m9Cx"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="UgxOls-jxmEnGwEaAZp4AaABAg.AIZ8YD2gcepAIZq2OfOaD9"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="UgxOls-jxmEnGwEaAZp4AaABAg.AIZ8YD2gcepAI_n_2ph993"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="UgxOls-jxmEnGwEaAZp4AaABAg.AIZ8YD2gcepAIaDPOwPX_u"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="UgxOls-jxmEnGwEaAZp4AaABAg.AIZ8YD2gcepAIaFaHKwuOe"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="UgxOls-jxmEnGwEaAZp4AaABAg.AIZ8YD2gcepAIbc0-fjnbP"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="Ugy6ZB0ap32vHMWZrVd4AaABAg.AITBHWKDYHiAITVDOFv7D8"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="Ugy6ZB0ap32vHMWZrVd4AaABAg.AITBHWKDYHiAIT_aRPfT60"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="Ugx-HHPLHBn7SzEThft4AaABAg.AISuLBy-yDgAITVHGbOdfF"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="Ugz69rLVymyVFyTTh2l4AaABAg.AIW8ERhmvJqAIZqr13JryU"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="Ugz69rLVymyVFyTTh2l4AaABAg.AIW8ERhmvJqAIajSuQznOa"/>
+<edge source="Ugwf-mIEc8_RvQcJLwZ4AaABAg" target="UgyBr3anXYZWQlamEWt4AaABAg.AIR3OuO5HDQAIR3uipGggF"/>
+<edge source="Ugx_wAPPrhIjyUdSRed4AaABAg" target="UgyBr3anXYZWQlamEWt4AaABAg.AIR3OuO5HDQAIR71PNFvm5"/>
+<edge source="Ugx_wAPPrhIjyUdSRed4AaABAg" target="UgyBr3anXYZWQlamEWt4AaABAg.AIR3OuO5HDQAIR9gF70rzM"/>
+<edge source="Ugx_wAPPrhIjyUdSRed4AaABAg" target="UgyBr3anXYZWQlamEWt4AaABAg.AIR3OuO5HDQAIRA7VznLQM"/>
+<edge source="Ugx_wAPPrhIjyUdSRed4AaABAg" target="UgyBr3anXYZWQlamEWt4AaABAg.AIR3OuO5HDQAIRCR886LhU"/>
+<edge source="Ugx_wAPPrhIjyUdSRed4AaABAg" target="UgztWccSjs6Y6GbC84h4AaABAg.AIRklpwVJKbAIRkvzBmOSU"/>
+<edge source="Ugx_wAPPrhIjyUdSRed4AaABAg" target="UgztWccSjs6Y6GbC84h4AaABAg.AIRklpwVJKbAIRlFL59Yl4"/>
+<edge source="Ugx_wAPPrhIjyUdSRed4AaABAg" target="UgztWccSjs6Y6GbC84h4AaABAg.AIRklpwVJKbAIRzIOVSGPn"/>
+<edge source="Ugx_wAPPrhIjyUdSRed4AaABAg" target="UgztWccSjs6Y6GbC84h4AaABAg.AIRklpwVJKbAISFOLEhAwa"/>
+<edge source="UgybfNCzjyEwbM0e4kR4AaABAg" target="UgztWccSjs6Y6GbC84h4AaABAg.AIRklpwVJKbAISKzWNqR6X"/>
+<edge source="UgybfNCzjyEwbM0e4kR4AaABAg" target="Ugx6PjXWYDHpqwmgd5V4AaABAg.AISOZeLWWfdAIT2lI6VQ1n"/>
+<edge source="UgzTpaFq1_6bXa2BccB4AaABAg" target="Ugx6PjXWYDHpqwmgd5V4AaABAg.AISOZeLWWfdAIUYVOZjGY4"/>
+<edge source="UgzTpaFq1_6bXa2BccB4AaABAg" target="Ugx6PjXWYDHpqwmgd5V4AaABAg.AISOZeLWWfdAIV9JMG0XtB"/>
+<edge source="UgzTpaFq1_6bXa2BccB4AaABAg" target="UgwpcfNEKfE2AT5dU894AaABAg.AIRsxI_M42pAITrhda-wwE"/>
+<edge source="Ugwku-2ZYw2vGL9y3qt4AaABAg" target="UgwpcfNEKfE2AT5dU894AaABAg.AIRsxI_M42pAIUxrQZuFNF"/>
+<edge source="Ugwku-2ZYw2vGL9y3qt4AaABAg" target="UgwpcfNEKfE2AT5dU894AaABAg.AIRsxI_M42pAIV9b868HK5"/>
+<edge source="Ugwku-2ZYw2vGL9y3qt4AaABAg" target="UgwpcfNEKfE2AT5dU894AaABAg.AIRsxI_M42pAIWhviJpKVL"/>
+<edge source="Ugwku-2ZYw2vGL9y3qt4AaABAg" target="UgwpcfNEKfE2AT5dU894AaABAg.AIRsxI_M42pAIa7lcHD5t4"/>
+<edge source="Ugwku-2ZYw2vGL9y3qt4AaABAg" target="Ugy6T7S92Ej0Sck38wt4AaABAg.AIgve_P5zTzAIi005_o2tN"/>
+<edge source="Ugwku-2ZYw2vGL9y3qt4AaABAg" target="Ugy6T7S92Ej0Sck38wt4AaABAg.AIgve_P5zTzAIi4T0v4myW"/>
+<edge source="Ugwku-2ZYw2vGL9y3qt4AaABAg" target="Ugy6T7S92Ej0Sck38wt4AaABAg.AIgve_P5zTzAIkKj3YPDmv"/>
+<edge source="Ugwku-2ZYw2vGL9y3qt4AaABAg" target="Ugy6T7S92Ej0Sck38wt4AaABAg.AIgve_P5zTzAIkMsEp9C5f"/>
+<edge source="Ugwku-2ZYw2vGL9y3qt4AaABAg" target="Ugy6T7S92Ej0Sck38wt4AaABAg.AIgve_P5zTzAIn4YKRa6gw"/>
+<edge source="Ugwku-2ZYw2vGL9y3qt4AaABAg" target="UgzwLGhso64akvF6XTJ4AaABAg.AIRFSrYi4oUAIRHFu8EpTn"/>
+<edge source="Ugwku-2ZYw2vGL9y3qt4AaABAg" target="UgzwLGhso64akvF6XTJ4AaABAg.AIRFSrYi4oUAIRI2M9hH2-"/>
+<edge source="Ugwku-2ZYw2vGL9y3qt4AaABAg" target="UgzwLGhso64akvF6XTJ4AaABAg.AIRFSrYi4oUAIROc_dTAUK"/>
+<edge source="Ugwku-2ZYw2vGL9y3qt4AaABAg" target="UgzwLGhso64akvF6XTJ4AaABAg.AIRFSrYi4oUAIRTERvxwb5"/>
+<edge source="Ugwku-2ZYw2vGL9y3qt4AaABAg" target="UgzwLGhso64akvF6XTJ4AaABAg.AIRFSrYi4oUAIRUzX9zd5X"/>
+<edge source="Ugwku-2ZYw2vGL9y3qt4AaABAg" target="UgxTsC_G7-gCUQxgWFJ4AaABAg.AIYjvQNew9jAIi-bBZ35i6"/>
+<edge source="Ugwku-2ZYw2vGL9y3qt4AaABAg" target="UgxTsC_G7-gCUQxgWFJ4AaABAg.AIYjvQNew9jAIjZz1uNW7Z"/>
+<edge source="Ugwku-2ZYw2vGL9y3qt4AaABAg" target="UgxTP-sgLJSqNp6wSg14AaABAg.AIU4NF91O73AIU4d5OqTwc"/>
+<edge source="UgyIHk4nH5Degay1BPh4AaABAg" target="Ugy7Fypvsa0tCe-wugp4AaABAg.AISUZxSJbnrAIS_fIUnEYy"/>
+<edge source="UgyIHk4nH5Degay1BPh4AaABAg" target="Ugy7Fypvsa0tCe-wugp4AaABAg.AISUZxSJbnrAISnYKhQu_H"/>
+<edge source="UgyIHk4nH5Degay1BPh4AaABAg" target="UgzlBwXkuj_KMTMCUlh4AaABAg.AIRrDbW4oFIAIT7RRtNtkg"/>
+<edge source="UgzebcqPjfTqd6FOWxl4AaABAg" target="UgxTknSHuNL0_htuQiV4AaABAg.AIR4ddyxoKjAIR5urO3pvV"/>
+<edge source="UgzebcqPjfTqd6FOWxl4AaABAg" target="UgxTknSHuNL0_htuQiV4AaABAg.AIR4ddyxoKjAIRJ-dEKZ9w"/>
+<edge source="UgzebcqPjfTqd6FOWxl4AaABAg" target="UgxTknSHuNL0_htuQiV4AaABAg.AIR4ddyxoKjAIRJ4ghMP7t"/>
+<edge source="UgzebcqPjfTqd6FOWxl4AaABAg" target="UgxTknSHuNL0_htuQiV4AaABAg.AIR4ddyxoKjAIRSuJQHlml"/>
+<edge source="UgxMqBqacq57nr8a98V4AaABAg" target="UgxTknSHuNL0_htuQiV4AaABAg.AIR4ddyxoKjAIRWUtUJejZ"/>
+<edge source="UgxMqBqacq57nr8a98V4AaABAg" target="UgwQVX3wXeCrssNwnuN4AaABAg.AITlmSFCa53AIgRn3qj76x"/>
+<edge source="UgxMqBqacq57nr8a98V4AaABAg" target="UgwoEnERJBQQNpXP75l4AaABAg.AITH1wjTTQvAITV61o6Nr5"/>
+<edge source="UgxMqBqacq57nr8a98V4AaABAg" target="UgwoEnERJBQQNpXP75l4AaABAg.AITH1wjTTQvAIU1pG5qkvR"/>
+<edge source="Ugz8dzLJegF1hmIOGdJ4AaABAg" target="UgwoEnERJBQQNpXP75l4AaABAg.AITH1wjTTQvAIUY1yq4tUx"/>
+<edge source="Ugz8dzLJegF1hmIOGdJ4AaABAg" target="UgwoEnERJBQQNpXP75l4AaABAg.AITH1wjTTQvAIVE-EVrccz"/>
+<edge source="Ugz8dzLJegF1hmIOGdJ4AaABAg" target="Ugz3-908MrYDNWqcosx4AaABAg.AIT9LdtZ7FEAITVFAFRMGZ"/>
+<edge source="UgzDGHj0gYoZpHsJRwB4AaABAg" target="Ugz3-908MrYDNWqcosx4AaABAg.AIT9LdtZ7FEAIV38PlbQrl"/>
+<edge source="UgwXKmGv66yk6ReVpJh4AaABAg" target="Ugz3-908MrYDNWqcosx4AaABAg.AIT9LdtZ7FEAIVBE3Z1Cyw"/>
+<edge source="UgwXKmGv66yk6ReVpJh4AaABAg" target="Ugz3-908MrYDNWqcosx4AaABAg.AIT9LdtZ7FEAIVRYpk0JZs"/>
+<edge source="UgwXKmGv66yk6ReVpJh4AaABAg" target="Ugz3-908MrYDNWqcosx4AaABAg.AIT9LdtZ7FEAIgpeyn8XSW"/>
+<edge source="UgwsB0vJZ-zp_EDJmK54AaABAg" target="UgxtXysuoq1yn1IICst4AaABAg.AISkmZ8oFNwAITV0ZKPKDj"/>
+<edge source="UgwsB0vJZ-zp_EDJmK54AaABAg" target="Ugx-uRgZp6ELo2VLOyl4AaABAg.AIRVX9aFh4IAIRX9R1a6Kp"/>
+<edge source="Ugxp78NlZvSqv353BH94AaABAg" target="Ugx-uRgZp6ELo2VLOyl4AaABAg.AIRVX9aFh4IAIRfKwXqnei"/>
+<edge source="Ugxp78NlZvSqv353BH94AaABAg" target="Ugx-uRgZp6ELo2VLOyl4AaABAg.AIRVX9aFh4IAITJ0cChvNd"/>
+<edge source="UgxiE821R6cIdIthF4B4AaABAg" target="Ugx-uRgZp6ELo2VLOyl4AaABAg.AIRVX9aFh4IAITJXvs7tHp"/>
+<edge source="UgzeO6_BhNFKljK8Ta94AaABAg" target="Ugx-uRgZp6ELo2VLOyl4AaABAg.AIRVX9aFh4IAITLgAWkJHK"/>
+<edge source="UgzeO6_BhNFKljK8Ta94AaABAg" target="UgwkYLxUp6Jpm3dUiqx4AaABAg.AISKzz173b-AIheIzTBl5t"/>
+<edge source="UgzeO6_BhNFKljK8Ta94AaABAg" target="UgwkYLxUp6Jpm3dUiqx4AaABAg.AISKzz173b-AIkqOuOvbmB"/>
+<edge source="UgzeO6_BhNFKljK8Ta94AaABAg" target="UgzGtd3_c8e8qruiHt14AaABAg.AIR6sDJJq3VAIR9fHFrAij"/>
+<edge source="UgzeO6_BhNFKljK8Ta94AaABAg" target="UgzGtd3_c8e8qruiHt14AaABAg.AIR6sDJJq3VAIRLd5vr1HF"/>
+<edge source="UgzeO6_BhNFKljK8Ta94AaABAg" target="UgzGtd3_c8e8qruiHt14AaABAg.AIR6sDJJq3VAIROkyQNwxH"/>
+<edge source="UgzeO6_BhNFKljK8Ta94AaABAg" target="UgzGtd3_c8e8qruiHt14AaABAg.AIR6sDJJq3VAIRwwtSvXWJ"/>
+<edge source="UgzeO6_BhNFKljK8Ta94AaABAg" target="UgxkxkwA894UOEmNt4J4AaABAg.AIgB7w-NtT4AIlFooJFos2"/>
+<edge source="UgzR-fXuAz0Aw2yq9AR4AaABAg" target="UgyFBiKCpk9U5DOBdFt4AaABAg.AIRA6TDMUj-AIgT9RmwU32"/>
+<edge source="UgzR-fXuAz0Aw2yq9AR4AaABAg" target="UgxHQuzwAhaTGqlZFAF4AaABAg.AISabgWzJivAITVJu1pd8-"/>
+<edge source="UgzR-fXuAz0Aw2yq9AR4AaABAg" target="UgzlCBPDj-9PzMsXdWZ4AaABAg.AIXT3t5U2tCAIZq_L9PMki"/>
+<edge source="UgzR-fXuAz0Aw2yq9AR4AaABAg" target="UgzlCBPDj-9PzMsXdWZ4AaABAg.AIXT3t5U2tCAIgRM_fFsKa"/>
+<edge source="UgzR-fXuAz0Aw2yq9AR4AaABAg" target="UgwGW37dQtiHTw5VihF4AaABAg.AIRfUjHHM8FAIgRpRlptU2"/>
+<edge source="UgzR-fXuAz0Aw2yq9AR4AaABAg" target="UgwGW37dQtiHTw5VihF4AaABAg.AIRfUjHHM8FAIgT7HRB9ck"/>
+<edge source="Ugykyo8u5NRTufRltV54AaABAg" target="Ugx6V4Q0sU1i6SAZHSl4AaABAg.AITEusmA4O4AITVAWBuxYp"/>
+<edge source="Ugykyo8u5NRTufRltV54AaABAg" target="Ugw5SU7rvTNcRtJWkrZ4AaABAg.AIRPuiJ_H67AIgTXcOZ6v_"/>
+<edge source="Ugykyo8u5NRTufRltV54AaABAg" target="UgyO210CITzqBIt64lF4AaABAg.AIUusmhMJAyAIZr9nCRzMD"/>
+<edge source="Ugykyo8u5NRTufRltV54AaABAg" target="UgwDoorPP_UWHKwdch94AaABAg.AITG4HW4JBeAITUpmTnbjD"/>
+<edge source="Ugykyo8u5NRTufRltV54AaABAg" target="UgwDoorPP_UWHKwdch94AaABAg.AITG4HW4JBeAITXdn96U6B"/>
+<edge source="Ugykyo8u5NRTufRltV54AaABAg" target="UgyP2AjIESnXZjdpgVN4AaABAg.AITexGkhwH3AIcxj9sPPuo"/>
+<edge source="Ugykyo8u5NRTufRltV54AaABAg" target="UgyP2AjIESnXZjdpgVN4AaABAg.AITexGkhwH3AIczBBuz0E1"/>
+</graph></graphml>
